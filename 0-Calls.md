@@ -51,14 +51,14 @@ Submission Formats: extended abstracts of 1-2  pages
 Panel and Keynote proposals, Industrial, Outlook 2030, and blue sky contributions and ideas.
 To such a purpose, the following information should be submitted:
 
--Title
--Authors/ Panelist/ Keynote speakers
--Type of contribution
--Name of the venue where it was presented (if applicable)
--Name of the presenter/proposer/moderator
--Original (or short) abstract
--Extended abstract or executive summary of 1-2 pages (plus references)
--Target audience (if applicable)
+- Title
+- Authors/Panelist/Keynote speakers
+- Type of contribution
+- Name of the venue where it was presented (if applicable)
+- Name of the presenter/proposer/moderator
+- Original (or short) abstract
+- Extended abstract or executive summary of 1-2 pages (plus references)
+- Target audience (if applicable)
 
 No copyright will be required, nor an indexed publication will be produced. The collection of extended abstracts will be however made available to the participants as a reference.
 
