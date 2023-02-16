@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# The Second Conference on System and Service Quality - QualIta 2023 
+# The Second Conference on System and Service Quality - QualIta 2023, 19-20  June, Florence, Italy.
 
-19-20  June, Florence, Italy. Supported by the CINI WG on SSQ.
+*Supported by the CINI WG on SSQ.
   
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
