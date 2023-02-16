@@ -19,10 +19,10 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 [List of open calls](https://qualitawg.github.io/0-Calls.html)
 
 ## Organizers
-- [Andrea Marin](https://www.unive.it/data/persone/5592332), Ca' Foscari University of Venice
-- [Danilo Ardagna](https://ardagna.faculty.polimi.it/), 
-- [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin)
-- [Emilio Incerto](https://sysma.imtlucca.it/pages/emilio-incerto/)
+- [Andrea Marin](https://www.unive.it/data/persone/5592332), Ca' Foscari University of Venice, Italy
+- [Danilo Ardagna](https://ardagna.faculty.polimi.it/), Politecnico di Milano, Milano, Italy
+- [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin), School of Advanced Studies Sant'Anna, Pisa, Italy
+- [Emilio Incerto](https://sysma.imtlucca.it/pages/emilio-incerto/) IMT School of Advanced Studies Lucca, Lucca, Italy
 	
 
 [//]:><div class="toc" markdown="1">
