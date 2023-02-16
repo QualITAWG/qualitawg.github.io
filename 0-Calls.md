@@ -12,6 +12,7 @@ For this reason, there will be no economical support, unless a sponsor is found.
 of having a volunteer and self-funded Keynote speaker, a Keynote session could be introduced.
 
 ## CALL FOR OPEN CONTRIBUTIONS [Blue Sky Basic Research Free speech]
+
 The main reason for the QualITA meeting will be to strengthen the CINI WG on System and Service Quality community, 
 by sharing to the participants the most recent results and achievements. For this reason there will be the opportunity of 
 presenting a 20 minutes free speech contribution, which can be based on recent talks given in international conferences, 
