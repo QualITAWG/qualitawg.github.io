@@ -2,7 +2,9 @@
 title: Home
 ---
 
-# Conference on System and Service Quality - QualIta 2023
+# The Second Conference on System and Service Quality - QualIta 2023 
+
+Supported by the CINI WG on SSQ  
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
