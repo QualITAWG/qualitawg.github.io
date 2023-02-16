@@ -16,7 +16,8 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 
 ## Call for Contributions
 
-[List of open calls](https://qualitawg.github.io/0-Calls.html)
+- [List of open calls](https://qualitawg.github.io/0-Calls.html)
+- [Submission Instructions](https://qualitawg.github.io/0-Calls.html#submission-instructions)
 
 ## Organizers
 - [Andrea Marin](https://www.unive.it/data/persone/5592332), Ca' Foscari University of Venice, Italy
