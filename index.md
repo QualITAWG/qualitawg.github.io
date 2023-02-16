@@ -12,7 +12,7 @@ title: Home
 ## Overview
 
 <p style='text-align: justify;'>
-The second Italian Conference on System and Service Quality (QualIta 2023) is the annual event of the [CINI System and Service Quality Working Group](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality). Its main goal is to put together Italian researchers, practitioners and professionals from academia, industry and public administration interested in qualities of computing systems such as performance, dependability, trustworthiness, efficiency, resilience, sustainability, and others. The conference will be structured into different research tracks, selected keynote speeches and some panels on related topics.
+The second Italian Conference on System and Service Quality (QualIta 2023) is the annual event of the <a href="https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality">CINI System and Service Quality Working Group</a>. Its main goal is to put together Italian researchers, practitioners and professionals from academia, industry and public administration interested in qualities of computing systems such as performance, dependability, trustworthiness, efficiency, resilience, sustainability, and others. The conference will be structured into different research tracks, selected keynote speeches and some panels on related topics.
 </p>
 	
 <p style='text-align: justify;'>
