@@ -3,6 +3,8 @@ title: Calls
 nav: true
 ---
 
+# Open Calls
+
 ## Panels and Keynotes
 
 QualITA panel track is meant to be a unique academic and industrial forum to discuss different viewpoints concerning 
@@ -10,8 +12,6 @@ gaps and challenges to be addressed by the CINI WG on System and Service Quality
 in a session of 30 minutes or 1 hour. The conference is intended to be self-funded, and not requiring any registration fee. 
 For this reason, there will be no economical support, unless a sponsor is found. Nevertheless, should there be the possibility 
 of having a volunteer and self-funded Keynote speaker, a Keynote session could be introduced.
-
-# Open Calls
 
 ## Open Contributions (blue sky basic research free speech)
 
@@ -39,7 +39,7 @@ We call for you to participate in this gathering with the key objectives of:
 2. Presenting your vision of system and service quality in 2030
 3. Attending the meeting to contribute to the discussion
 
-## SUBMISSION INSTRUCTION
+## Submission Instructions
 
 QI23 accepts contributions covering all aspects of quality, such as monitoring, benchmarking, measuring, modeling, assessing, capacity planning, workload characterization, operational analysis, verification, validation, and testing. Both methodological and practical aspects are taken into account, including any technique (e.g. analytical models, simulators, statistical analysis, machine learning, formal methods, soft computing) and tool, in any possible digital system and service application domain (e.g. real-time, blockchain, systems of systems, cyber-physical systems, IoT, Cloud, Fog, Edge, Intelligent transportation systems, fintech, digital health, blockchain).
 According to the spirit of the conference, the review process will be aimed at providing comments that could be used by the authors mostly for strengthening the contribution form, making them accessible and useful for the broad audience, and increasing the likelihood of generating fruitful discussions. 
@@ -51,18 +51,19 @@ Submission Formats: extended abstracts of 1-2  pages
 Panel and Keynote proposals, Industrial, Outlook 2030, and blue sky contributions and ideas.
 To such a purpose, the following information should be submitted:
 
-Title
-Authors/ Panelist/ Keynote speakers
-Type of contribution
-Name of the venue where it was presented (if applicable)
-Name of the presenter/proposer/moderator
-Original (or short) abstract
-Extended abstract or executive summary of 1-2 pages (plus references)
-Target audience (if applicable)
+-Title
+-Authors/ Panelist/ Keynote speakers
+-Type of contribution
+-Name of the venue where it was presented (if applicable)
+-Name of the presenter/proposer/moderator
+-Original (or short) abstract
+-Extended abstract or executive summary of 1-2 pages (plus references)
+-Target audience (if applicable)
 
 No copyright will be required, nor an indexed publication will be produced. The collection of extended abstracts will be however made available to the participants as a reference.
 
 
 Contributions should be submitted in electronic format (PDF) through the Google Form available at:
 
+[TBA]()
 
