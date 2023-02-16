@@ -20,14 +20,18 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 
 ## Organizers
 
+	- [Andrea Marin](https://www.unive.it/data/persone/5592332), Ca' Foscari University of Venice
+	- [Danilo Ardagna](https://ardagna.faculty.polimi.it/), 
+	- [Andrea Vandin]()
+	- [Emilio Incerto]()
+	
 
-[//]:<div class="toc" markdown="1">
-[//]:## Contents:
-
-[//]:{% for lesson in site.pages %}
-[//]:{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-[//]:{% endfor %}
-[//]:</div>
+[//]:><div class="toc" markdown="1">
+[//]:>## Contents:
+[//]:>{% for lesson in site.pages %}
+[//]:>{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
+[//]:>{% endfor %}
+[//]:></div>
 
 Hosted by University of Florence,  within the 37th International Conference on Modelling and Simulation, [ECMS23](https://scs-europe.net/conf/ecms2023/).
  
