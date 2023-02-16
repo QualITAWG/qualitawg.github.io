@@ -3,6 +3,6 @@ title: Program
 nav: true
 ---
 
-## Conference Program
+# Conference Program
 
 *To be announced*
