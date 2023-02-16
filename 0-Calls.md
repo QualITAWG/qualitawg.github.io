@@ -41,9 +41,9 @@ The goal of the session is to stimulate the discussion around topics, proposed b
 
 We call for you to participate in this gathering with the key objectives of:
 
-1. Presenting your current work in defining new approaches in the area of system and service quality
-2. Presenting your vision of system and service quality in 2030
-3. Attending the meeting to contribute to the discussion
+- Presenting your current work in defining new approaches in the area of system and service quality
+- Presenting your vision of system and service quality in 2030
+- Attending the meeting to contribute to the discussion
 
 ## Submission Instructions
 
