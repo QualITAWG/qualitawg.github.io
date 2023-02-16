@@ -50,7 +50,7 @@ We call for you to participate in this gathering with the key objectives of:
 QI23 accepts contributions covering all aspects of quality, such as monitoring, benchmarking, measuring, modeling, assessing, capacity planning, workload characterization, operational analysis, verification, validation, and testing. Both methodological and practical aspects are taken into account, including any technique (e.g. analytical models, simulators, statistical analysis, machine learning, formal methods, soft computing) and tool, in any possible digital system and service application domain (e.g. real-time, blockchain, systems of systems, cyber-physical systems, IoT, Cloud, Fog, Edge, Intelligent transportation systems, fintech, digital health, blockchain).
 According to the spirit of the conference, the review process will be aimed at providing comments that could be used by the authors mostly for strengthening the contribution form, making them accessible and useful for the broad audience, and increasing the likelihood of generating fruitful discussions. 
 
-- Deadline: November 10th
+- Deadline: May 2nd
 - Submission Formats: extended abstracts of 1-2 pages
 
 
