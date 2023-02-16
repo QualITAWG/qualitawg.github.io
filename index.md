@@ -16,6 +16,8 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 
 ## Call for Contributions
 
+[List of open calls](https://qualitawg.github.io/0-Calls.html)
+
 ## Organizers
 
 <div class="toc" markdown="1">
