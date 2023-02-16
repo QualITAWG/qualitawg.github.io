@@ -14,6 +14,8 @@ The second Italian Conference on System and Service Quality (QualIta 2023) is th
 QualIta 2023  (QI23) aims to highlight quality aspects, considering the complex, heterogeneous, multidisciplinary environment in which modern computing systems operate, together with their application domains, characterized by an increasing demand of resilient and sustainable solutions that should also meet efficiency as well as time-constrained requirements. 
 Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have started becoming mature enough, turning the peak of inflated expectations and disillusionment towards effective solutions into enlightenment. To move further towards the plateau of productivity, the focus switches from functional to non-functional aspects, from mechanisms to qualities and policies for their enforcement, and from a proof of concept or prototype to a product or service. Therefore, techniques and tools to deal with quality aspects in the design, implementation and assessment of computing systems become essential to support such process. QI23 will explore methodological and practical aspects of qualities, ranging from modelling and design techniques to evaluation tools and case studies. It will also investigate related domains such as cloud, edge, IoT, intelligent systems, cyber-physical systems, high-performance computing, blockchain, and similar.
 
+## Call for Contributions
+
 ## Organizers
 
 <div class="toc" markdown="1">
