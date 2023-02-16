@@ -5,4 +5,4 @@ nav: true
 
 ## Conference Program
 
-* To be announced*
+* To be announced
