@@ -4,7 +4,7 @@ title: Home
 
 # The Second Conference on System and Service Quality - QualIta, 19-20  June 2023, Florence, Italy.
 
-*Supported by the CINI WG on SSQ.*
+*Supported by the [CINI WG on SSQ](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality).*
   
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
@@ -20,13 +20,14 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 
 ## Organizers
 
-<div class="toc" markdown="1">
-## Contents:
 
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
+[//]:<div class="toc" markdown="1">
+[//]:## Contents:
+
+[//]:{% for lesson in site.pages %}
+[//]:{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
+[//]:{% endfor %}
+[//]:</div>
 
 Hosted by University of Florence,  within the 37th International Conference on Modelling and Simulation, [ECMS23](https://scs-europe.net/conf/ecms2023/).
  
