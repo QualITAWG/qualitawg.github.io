@@ -21,8 +21,8 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 ## Organizers
 - [Andrea Marin](https://www.unive.it/data/persone/5592332), Ca' Foscari University of Venice
 - [Danilo Ardagna](https://ardagna.faculty.polimi.it/), 
-- [Andrea Vandin]()
-- [Emilio Incerto]()
+- [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin)
+- [Emilio Incerto](https://sysma.imtlucca.it/pages/emilio-incerto/)
 	
 
 [//]:><div class="toc" markdown="1">
