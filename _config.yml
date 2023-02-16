@@ -14,9 +14,9 @@ description: "Conference on System and Service Quality - QualIta 2023"
 keywords: "System,Service,Quality,Software"
 
 # author settings for cc-by, appears in the footer
-author: Emilio Incerto, Ancrea Vandin
+author: CINI WG on SSQ
 pub_year: 2023
-github_username: QualIta Working Group
+github_username: QualITAWG
 
 # add the full url for the github repository
 repo: "https://github.com/QualITAWG/qualitawg.github.io"
