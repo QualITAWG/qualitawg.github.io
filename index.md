@@ -22,7 +22,7 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 - [Andrea Marin](https://www.unive.it/data/persone/5592332), Ca' Foscari University of Venice, Italy
 - [Danilo Ardagna](https://ardagna.faculty.polimi.it/), Politecnico di Milano, Milano, Italy
 - [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin), School of Advanced Studies Sant'Anna, Pisa, Italy
-- [Emilio Incerto](https://sysma.imtlucca.it/pages/emilio-incerto/) IMT School of Advanced Studies Lucca, Lucca, Italy
+- [Emilio Incerto](https://sysma.imtlucca.it/pages/emilio-incerto/) IMT Lucca School of Advanced Studies, Lucca, Italy
 	
 
 [//]:><div class="toc" markdown="1">
