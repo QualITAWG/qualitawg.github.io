@@ -4,9 +4,12 @@ nav: true
 ---
 
 # Open Calls
-
-##### Table of Contents  
-[Panel and keynotes](#panel and keynotes)   
+ 
+[Panel and keynotes](#panel-and-keynotes)   
+[Open Contributions](#open-contributions-blue-sky-basic-research-free-speech)  
+[Case Studies](#case-study-and-industrial-practice)
+[Outlook 2030](#outlook-2030-proposal)
+[Submission Instructions](#submission-instructions)
 
 ## Panels and Keynotes
 
