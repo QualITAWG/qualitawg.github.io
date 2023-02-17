@@ -7,7 +7,7 @@ title: Home
 *Supported by the [CINI WG on SSQ](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality)* <br/>
 *Hosted by University of Florence,  within the 37th International Conference on Modelling and Simulation, [ECMS23](https://scs-europe.net/conf/ecms2023/).*
   
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="SSQ_logo.png" alt="SSQ Logo" caption="" width="75%" %}
 
 ## Overview
 
