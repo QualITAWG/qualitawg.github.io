@@ -71,5 +71,5 @@ No copyright will be required, nor an indexed publication will be produced. The 
 
 Contributions should be submitted in electronic format (PDF) through the Google Form available at:
 
-[TBA]()
+[submission form](https://forms.gle/d3JAXgTCQx6C6Vtr6)
 
