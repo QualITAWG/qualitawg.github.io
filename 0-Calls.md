@@ -10,7 +10,7 @@ nav: true
 - [Case Studies](#case-study-and-industrial-practice)
 - [Outlook 2030](#outlook-2030-proposal)
 - [Submission Instructions](#submission-instructions)
-- [Registration](#registration-instructions)
+- [Registration Instructions](#registration-instructions)
 
 ## Panels and Keynotes
 
