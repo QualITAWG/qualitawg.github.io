@@ -10,6 +10,7 @@ nav: true
 - [Case Studies](#case-study-and-industrial-practice)
 - [Outlook 2030](#outlook-2030-proposal)
 - [Submission Instructions](#submission-instructions)
+- [Registration](#registration-instructions)
 
 ## Panels and Keynotes
 
@@ -91,7 +92,7 @@ We call for you to participate in this gathering with the key objectives of:
 
 ## Submission Instructions
 
-QI23 accepts contributions covering all aspects of quality, such as monitoring, benchmarking, measuring, modeling, assessing, capacity planning, workload characterization, operational analysis, verification, validation, and testing. Both methodological and practical aspects are taken into account, including any technique (e.g. analytical models, simulators, statistical analysis, machine learning, formal methods, soft computing) and tool, in any possible digital system and service application domain (e.g. real-time, blockchain, systems of systems, cyber-physical systems, IoT, Cloud, Fog, Edge, Intelligent transportation systems, fintech, digital health, blockchain).
+QualITA 23 accepts contributions covering all aspects of quality, such as monitoring, benchmarking, measuring, modeling, assessing, capacity planning, workload characterization, operational analysis, verification, validation, and testing. Both methodological and practical aspects are taken into account, including any technique (e.g. analytical models, simulators, statistical analysis, machine learning, formal methods, soft computing) and tool, in any possible digital system and service application domain (e.g. real-time, blockchain, systems of systems, cyber-physical systems, IoT, Cloud, Fog, Edge, Intelligent transportation systems, fintech, digital health, blockchain).
 According to the spirit of the conference, the review process will be aimed at providing comments that could be used by the authors mostly for strengthening the contribution form, making them accessible and useful for the broad audience, and increasing the likelihood of generating fruitful discussions. 
 
 - Deadline: April, 14th
@@ -117,4 +118,11 @@ No copyright will be required, nor an indexed publication will be produced. The 
 Contributions should be submitted in electronic format (PDF) through the Google Form available at:
 
 [submission form](https://forms.gle/d3JAXgTCQx6C6Vtr6)
+
+## Registration Instructions
+
+Registration for the QualITA event is free but mandatory and possible through the following form:
+
+[submission form](https://forms.gle/uoPrKB8fqUXQBfFW8)
+
 
