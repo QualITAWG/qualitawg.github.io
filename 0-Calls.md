@@ -123,6 +123,6 @@ Contributions should be submitted in electronic format (PDF) through the Google 
 
 Registration for the QualITA event is free but mandatory and possible through the following form:
 
-[submission form](https://forms.gle/uoPrKB8fqUXQBfFW8)
+[registration form](https://forms.gle/uoPrKB8fqUXQBfFW8)
 
 
