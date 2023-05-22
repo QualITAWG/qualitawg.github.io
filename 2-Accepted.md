@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Accepted Contributions
 nav: true
 ---
 
