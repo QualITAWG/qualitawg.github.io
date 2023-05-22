@@ -5,9 +5,9 @@ nav: true
 
 # Accepted Contributions
 
-Raffaele Zippo, Università di Pisa; Md Amirul Islam, Università di Pisa; Giovanni Stea, Università di Pisa
+<span style="color:#999999">Raffaele Zippo, Università di Pisa; Md Amirul Islam, Università di Pisa; Giovanni Stea, Università di Pisa</span>
 <br/>
-<span style="color:red">__Trends on mixed-criticality system architectures: new venues for application of QoS analysis techniques__</span>
+<span style="color:black">__Trends on mixed-criticality system architectures: new venues for application of QoS analysis techniques__</span>
 <br/>
 <br/>
 Luca Traini, Università degli studi dell'Aquila; Vittorio Cortellessa, Università degli studi dell'Aquila; Daniele Di Pompeo, Università degli studi dell'Aquila; Michele Tucci, Università degli studi dell'Aquila
