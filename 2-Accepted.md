@@ -58,7 +58,7 @@ for Advanced Studies Pisa Italy and DTU Technical University of Denmark Lyngby D
 <br/>
 <span style="color:#999999">Emilio Incerto, IMTLucca; Roberto Pizziol, IMTLucca;Mirco Tribastone, IMTLucca; </span>
 <br/>
-<span style="color:black">__$\mu$Opt: An Efficient Optimal Autoscaler for Microservice Applications__</span>
+<span style="color:black">__&#956;Opt: An Efficient Optimal Autoscaler for Microservice Applications__</span>
 <br/>
 <br/>
 <span style="color:#999999">Vittorio Cortellessa, University of L'Aquila; Daniele Di Pompeo, University of L'Aquila; Michele Tucci, University of L'Aquila</span>
