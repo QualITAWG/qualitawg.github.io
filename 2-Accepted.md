@@ -11,6 +11,7 @@ _Trends on mixed-criticality system architectures: new venues for application of
 <br/>
 <br/>
 Luca Traini, Università degli studi dell'Aquila; Vittorio Cortellessa, Università degli studi dell'Aquila; Daniele Di Pompeo, Università degli studi dell'Aquila; Michele Tucci, Università degli studi dell'Aquila
+<br/>
 _Towards effective assessment of steady state performance in Java software: Are we there yet?_
 <br/>
 <br/>
