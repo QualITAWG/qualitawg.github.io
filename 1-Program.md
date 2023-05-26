@@ -57,7 +57,6 @@ nav: true
   <span style="color:#999999">Ivan Malakhov, Universita' Ca' Foscari Venezia; Andrea Marin, Universita' Ca' Foscari Venezia; Sabina Rossi, Universita' Ca' Foscari Venezia; Daria Smuseva, Universita' Ca' Foscari Venezia</span>
 - <span style="color:black">__Evaluating the role of software quality on policies for privacy and security__</span>,
   <span style="color:#999999">Mauro Iacono, Università degli Studi della Campania "Luigi Vanvitelli"; Michele Mastroianni, Università degli Studi di Salerno</span>
-
 - <span style="color:black">__Dependability 2.0: beyond current vision and concepts through a cause-effect approach__</span>,
   <span style="color:#999999">Salvatore Distefano, Università degli Studi di Messina</span>
 
