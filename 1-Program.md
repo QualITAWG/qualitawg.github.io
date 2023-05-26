@@ -19,3 +19,9 @@ nav: true
 - 16:00 - 17:00	Session 5: Industrial application and 5/6G applications
 #Day 2
 - 9:00-12:00 Discussion
+
+# Session 1: Performance optimization of software systems
+# Session 2: Tools and Frameworks
+# Sessione 3: Critical systems and secruity assessment 
+# Session 4: Performance modeling and evaluation of software
+# Session 5: Industrial application and 5/6G applications
