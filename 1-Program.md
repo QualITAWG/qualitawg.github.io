@@ -9,7 +9,7 @@ nav: true
 
 - 08:50  - 9:00	Welcome
 - 09:00  - 9:30	Invited-1
-- 09:30  - 10:30 <span style="color:orange"><a href="#session-1-performance-optimization-of-software-systems">Session 1</a></span>: Performance optimization of software systems
+- 09:30  - 10:30 <a style="color:orange" href="#session-1-performance-optimization-of-software-systems">Session 1</a>: Performance optimization of software systems
 - 10:30 - 10:50	Break
 - 10:50 - 11:50	Session 2: Tools and Frameworks
 - 11:50 - 12:50	Sessione 3: Critical systems and secruity assessment 
