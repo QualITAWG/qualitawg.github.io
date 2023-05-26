@@ -37,6 +37,16 @@ nav: true
 <span style="color:#999999">Carmine Colarusso, University of Sannio; Assunta De Caro, University of Sannio; Ida Falco, University of Sannio; Lorenzo Goglia, University of Sannio; Eugenio Zimeo, University of Sannio and CINI</span>
 
 ## Session 2: Tools and Frameworks
+
+- <span style="color:black">__COORDINATE: Performance Analysis of Fault-Tolerant Coordination Mechanisms__</span>,
+<span style="color:#999999">Riccardo Pinciroli, Gran Sasso Science Institute; Catia Trubiani, Gran Sasso Science Institute</span>
+- <span style="color:black">__Serverledge: a Framework for QoS-Aware Function-as-a-Service in the Edge-Cloud Continuum__</span>,
+<span style="color:#999999">Gabriele Russo Russo, University of Rome Tor Vergata; Valeria Cardellini, University of Rome Tor Vergata; Francesco Lo Presti, University of Rome Tor Vergata</span>
+- <span style="color:black">__Evento: a performance oriented framework for cloud native reactive systems__</span>,
+<span style="color:#999999">Gabor Galazzo - Università del Piemonte Orientale, Giuliana Franceschinis - Università del Piemonte Orientale	</span>
+- <span style="color:black">__A multiformalism-based model for performance evaluation of multi-architecture green data centers__</span>, 
+<span style="color:#999999">Marco Gribaudo, Politecnico di Milano; Enrico Barbierato, a, Università Cattolica del Sacro Cuore; Daniele Manini, Università di Torino</span>
+
 ## Sessione 3: Critical systems and secruity assessment 
 ## Session 4: Performance modeling and evaluation of software
 ## Session 5: Industrial application and 5/6G applications
