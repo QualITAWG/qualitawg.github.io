@@ -48,5 +48,12 @@ nav: true
 <span style="color:#999999">Marco Gribaudo, Politecnico di Milano; Enrico Barbierato, a, Università Cattolica del Sacro Cuore; Daniele Manini, Università di Torino</span>
 
 ## Sessione 3: Critical systems and secruity assessment 
+
+- <span style="color:black">__Trends on mixed-criticality system architectures: new venues for application of QoS analysis techniques__</span>,
+  <span style="color:#999999">Raffaele Zippo, Università di Pisa; Md Amirul Islam, Università di Pisa; Giovanni Stea, Università di Pisa</span>
+- <span style="color:black">__Early-stage Security Analysis of a Public Transport Supervision System using an Extension of the ADVISE Meta Modeling Framework__</span>,
+  <span style="color:#999999">Francesco Mariotti; Leonardo Montecchi; Simone Nardi; Andrea Bondavalli; Paolo Lollini</span>
+
+
 ## Session 4: Performance modeling and evaluation of software
 ## Session 5: Industrial application and 5/6G applications
