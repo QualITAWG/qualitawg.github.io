@@ -27,7 +27,8 @@ nav: true
 
 ## Session 1: Performance optimization of software systems
 
-- <span style="color:black">__Optimal Scaling of Microservice Architectures Using Queueing Networks__</span> <\br> 
+- <span style="color:black">__Optimal Scaling of Microservice Architectures Using Queueing Networks__</span> 
+<\br> 
 <span style="color:#999999">Antonio Capizzi, Salvatore Distefano, Marco Scarpa, and Giovanni Mancini</span>
 - <span style="color:black">__&#956;Opt: An Efficient Optimal Autoscaler for Microservice Applications__</span>
 - <span style="color:black">__Many-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models__</span>
