@@ -60,4 +60,24 @@ nav: true
 
 
 ## Session 4: Performance modeling and evaluation of software
+
+- <span style="color:black">__Towards effective assessment of steady state performance in Java software: Are we there yet?__</span>,
+  <span style="color:#999999">Luca Traini, Università degli studi dell'Aquila; Vittorio Cortellessa, Università degli studi dell'Aquila; Daniele Di Pompeo, Università degli studi dell'Aquila; Michele Tucci, Università degli studi dell'Aquila</span>
+- <span style="color:black">__Automated Detection of Software Performance Antipatterns in Java-based Applications – A Perspective on Service Quality__</span>
+  <span style="color:#999999">Catia Trubiani, Gran Sasso Science Institute; Riccardo Pinciroli, Gran Sasso Science Institute; Andrea Biaggi, Università Milano-Bicocca; Francesca Arcelli Fontana, Università Milano-Bicocca</span>
+- <span style="color:black">__Modeling Software Aging and Rejuvenation beyond the enabling restriction__</span>,
+  <span style="color:#999999">L.Carnevali, University of Florence; R.Reali, University of Florence; M.Paolieri, University of Southern California; B.Picano, University of Florence; L.Scommegna, University of Florence; R.Verdecchia, University of Florence; E.Vicario, University of Florence</span>  
+- <span style="color:black">__Human Interaction in Search-based Software Quality Optimization__</span>,
+  <span style="color:#999999">Vittorio Cortellessa, University of L'Aquila; Daniele Di Pompeo, University of L'Aquila; Michele Tucci, University of L'Aquila</span>
+  
 ## Session 5: Industrial application and 5/6G applications
+
+- <span style="color:black">__Towards Novel Statistical Methods for Anomaly Detection in Industrial Processes__</span>, 
+  <span style="color:#999999">Simone Tonini, Department of Excellence EMbeDS Sant’Anna School for Advanced Studies Pisa Italy; Fernando Barsacchi, A. Celli Group Porcari Lucca Italy; Francesca Chiaromonte, Department of Excellence EMbeDS and Institute of Economics Sant’Anna School for Advanced Studies Pisa Italy and Dept. of Statistics and Huck Institutes of the Life Sciences The Pennsylvania State University USA; Daniele Licari, Department of Excellence EMbeDS Sant’Anna School for Advanced Studies Pisa Italy; Andrea Vandin, Department of Excellence EMbeDS and Institute of Economics Sant’Anna School 
+  for Advanced Studies Pisa Italy and DTU Technical University of Denmark Lyngby Denmark</span>
+- <span style="color:black">__Application of Machine Learning techniques for regression analysis on software/hardware systems in an industrial environment__</span>,
+  <span style="color:#999999">Federico Di Menna, University of L'Aquila; Luca Traini, University of L'Aquila; Vittorio Cortellessa, University of L'Aquila</span>
+- <span style="color:black">__A testbed for the explainable forecasting of video-streaming quality in B5G/6G networks__</span>,
+  <span style="color:#999999">Pietro Ducange, University of Pisa; Francesco Marcelloni, University of Pisa; Giovanni Nardini, University of Pisa; Alessandro Renda, University of Pisa; Giovanni Stea, University of Pisa</span>
+- <span style="color:black">__A Stackelberg Game approach for managing an AI application in Mobile Edge Cloud systems__</span>, 
+  <span style="color:#999999">Roberto Sala, Politecnico di Milano; Hamta Sedghani, Politecnico di Milano; Danilo Ardagna, Politecnico di Milano</span>
