@@ -23,8 +23,14 @@ nav: true
 
 - 09:00-12:00 Discussion
 
-# Session 1: Performance optimization of software systems
-# Session 2: Tools and Frameworks
-# Sessione 3: Critical systems and secruity assessment 
-# Session 4: Performance modeling and evaluation of software
-# Session 5: Industrial application and 5/6G applications
+# Talks
+
+## Session 1: Performance optimization of software systems
+
+- ciao
+- ciao
+
+## Session 2: Tools and Frameworks
+## Sessione 3: Critical systems and secruity assessment 
+## Session 4: Performance modeling and evaluation of software
+## Session 5: Industrial application and 5/6G applications
