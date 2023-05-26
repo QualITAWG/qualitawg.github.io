@@ -27,8 +27,10 @@ nav: true
 
 ## Session 1: Performance optimization of software systems
 
-- ciao
-- ciao
+- <span style="color:black">__Optimal Scaling of Microservice Architectures Using Queueing Networks__</span>
+- <span style="color:black">__&#956;Opt: An Efficient Optimal Autoscaler for Microservice Applications__</span>
+- <span style="color:black">__Many-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models__</span>
+- <span style="color:black">__Performance gain of microservices applications using tracing and locality-aware clustering__</span>
 
 ## Session 2: Tools and Frameworks
 ## Sessione 3: Critical systems and secruity assessment 
