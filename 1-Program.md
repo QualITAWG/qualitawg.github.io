@@ -11,13 +11,13 @@ nav: true
 - 09:00  - 9:30	Invited-1
 - 09:30  - 10:30 <a style="color:orange" href="#session-1-performance-optimization-of-software-systems">Session 1</a>: Performance optimization of software systems
 - 10:30 - 10:50	Break
-- 10:50 - 11:50	Session 2: Tools and Frameworks
-- 11:50 - 12:50	Sessione 3: Critical systems and secruity assessment 
+- 10:50 - 11:50	<a style="color:rgb(234,51,247)" href="#session-2-tools-and-frameworks">Session 2</a>: Tools and Frameworks
+- 11:50 - 12:50	<a style="color:rgb(117,252,76)" href="#sessione-3-critical-systems-and-secruity-assessment">Sessione 3</a>: Critical systems and secruity assessment 
 - 12:50 - 14:00	Lunch
 - 14:00 - 14:30	Invited-2
-- 14:30 - 15:30	Session 4: Performance modeling and evaluation of software
+- 14:30 - 15:30	<a style="color:rgb(89,132,225)" href="#session-4-performance-modeling-and-evaluation-of-software">Session 4</a>: Performance modeling and evaluation of software
 - 15:30 - 16:00	Break
-- 16:00 - 17:00	Session 5: Industrial application and 5/6G applications
+- 16:00 - 17:00	<a style="color:rgb(189,75,49)" href="#session-5-industrial-application-and-56g-applications">Session 5</a>: Industrial application and 5/6G applications
 
 ## Day 2
 
