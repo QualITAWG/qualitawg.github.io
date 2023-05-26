@@ -27,12 +27,14 @@ nav: true
 
 ## Session 1: Performance optimization of software systems
 
-- <span style="color:black">__Optimal Scaling of Microservice Architectures Using Queueing Networks__</span> 
-<\br> 
+- <span style="color:black">__Optimal Scaling of Microservice Architectures Using Queueing Networks__</span>,  
 <span style="color:#999999">Antonio Capizzi, Salvatore Distefano, Marco Scarpa, and Giovanni Mancini</span>
-- <span style="color:black">__&#956;Opt: An Efficient Optimal Autoscaler for Microservice Applications__</span>
-- <span style="color:black">__Many-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models__</span>
-- <span style="color:black">__Performance gain of microservices applications using tracing and locality-aware clustering__</span>
+- <span style="color:black">__&#956;Opt: An Efficient Optimal Autoscaler for Microservice Applications__</span>,
+<span style="color:#999999">Emilio Incerto, IMTLucca; Roberto Pizziol, IMTLucca;Mirco Tribastone, IMTLucca; </span>
+- <span style="color:black">__Many-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models__</span>,
+<span style="color:#999999">Vittorio Cortellessa, Universita' degli studi dell'Aquila; Daniele Di Pompeo, Universita' degli studi dell'Aquila;Vincenzo Stoico, Universita' degli studi dell'Aquila;Michele Tucci, Universita' degli studi dell'Aquila</span>
+- <span style="color:black">__Performance gain of microservices applications using tracing and locality-aware clustering__</span>,
+<span style="color:#999999">Carmine Colarusso, University of Sannio; Assunta De Caro, University of Sannio; Ida Falco, University of Sannio; Lorenzo Goglia, University of Sannio; Eugenio Zimeo, University of Sannio and CINI</span>
 
 ## Session 2: Tools and Frameworks
 ## Sessione 3: Critical systems and secruity assessment 
