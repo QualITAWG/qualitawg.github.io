@@ -53,6 +53,10 @@ nav: true
   <span style="color:#999999">Raffaele Zippo, Università di Pisa; Md Amirul Islam, Università di Pisa; Giovanni Stea, Università di Pisa</span>
 - <span style="color:black">__Early-stage Security Analysis of a Public Transport Supervision System using an Extension of the ADVISE Meta Modeling Framework__</span>,
   <span style="color:#999999">Francesco Mariotti; Leonardo Montecchi; Simone Nardi; Andrea Bondavalli; Paolo Lollini</span>
+- <span style="color:black">__Analysis of the Confirmation Time in Proof-of-Work Blockchains__</span>,
+  <span style="color:#999999">Ivan Malakhov, Universita' Ca' Foscari Venezia; Andrea Marin, Universita' Ca' Foscari Venezia; Sabina Rossi, Universita' Ca' Foscari Venezia; Daria Smuseva, Universita' Ca' Foscari Venezia</span>
+- <span style="color:black">__Evaluating the role of software quality on policies for privacy and security__</span>,
+  <span style="color:#999999">Mauro Iacono, Università degli Studi della Campania "Luigi Vanvitelli"; Michele Mastroianni, Università degli Studi di Salerno</span>
 
 
 ## Session 4: Performance modeling and evaluation of software
