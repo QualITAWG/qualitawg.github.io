@@ -107,4 +107,7 @@ green data centers__</span>
 <span style="color:black">__Optimal Scaling of Microservice Architectures Using Queueing Networks__</span>
 <br/>
 <br/>
-<span style="color:#999999">
+<span style="color:#999999">Salvatore Distefano</span>
+<span style="color:#999999"><br/>
+<span style="color:black">__Dependability 2.0: beyond current vision and concepts through a cause-effect approach__</span>
+  
