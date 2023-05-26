@@ -21,7 +21,7 @@ nav: true
 
 ## Day 2
 
-- 09:00-12:00 Discussion
+- 09:00-12:00 Discussion and next steps
 
 # Talks
 
@@ -36,7 +36,7 @@ nav: true
 - <span style="color:black">__Performance gain of microservices applications using tracing and locality-aware clustering__</span>,
 <span style="color:#999999">Carmine Colarusso, University of Sannio; Assunta De Caro, University of Sannio; Ida Falco, University of Sannio; Lorenzo Goglia, University of Sannio; Eugenio Zimeo, University of Sannio and CINI</span>
 
-## Session 2: Tools and Frameworks
+## <span style="color:rgb(234,51,247)">Session 2</span>: Tools and Frameworks
 
 - <span style="color:black">__COORDINATE: Performance Analysis of Fault-Tolerant Coordination Mechanisms__</span>,
 <span style="color:#999999">Riccardo Pinciroli, Gran Sasso Science Institute; Catia Trubiani, Gran Sasso Science Institute</span>
@@ -47,7 +47,7 @@ nav: true
 - <span style="color:black">__A multiformalism-based model for performance evaluation of multi-architecture green data centers__</span>, 
 <span style="color:#999999">Marco Gribaudo, Politecnico di Milano; Enrico Barbierato, a, Università Cattolica del Sacro Cuore; Daniele Manini, Università di Torino</span>
 
-## Sessione 3: Critical systems and secruity assessment 
+## <span style="color:rgb(117,252,76)">Sessione 3</span>: Critical systems and secruity assessment 
 
 - <span style="color:black">__Trends on mixed-criticality system architectures: new venues for application of QoS analysis techniques__</span>,
   <span style="color:#999999">Raffaele Zippo, Università di Pisa; Md Amirul Islam, Università di Pisa; Giovanni Stea, Università di Pisa</span>
@@ -59,7 +59,7 @@ nav: true
   <span style="color:#999999">Mauro Iacono, Università degli Studi della Campania "Luigi Vanvitelli"; Michele Mastroianni, Università degli Studi di Salerno</span>
 
 
-## Session 4: Performance modeling and evaluation of software
+## <span style="color:rgb(89,132,225)">Session 4</span>: Performance modeling and evaluation of software
 
 - <span style="color:black">__Towards effective assessment of steady state performance in Java software: Are we there yet?__</span>,
   <span style="color:#999999">Luca Traini, Università degli studi dell'Aquila; Vittorio Cortellessa, Università degli studi dell'Aquila; Daniele Di Pompeo, Università degli studi dell'Aquila; Michele Tucci, Università degli studi dell'Aquila</span>
@@ -70,7 +70,7 @@ nav: true
 - <span style="color:black">__Human Interaction in Search-based Software Quality Optimization__</span>,
   <span style="color:#999999">Vittorio Cortellessa, University of L'Aquila; Daniele Di Pompeo, University of L'Aquila; Michele Tucci, University of L'Aquila</span>
   
-## Session 5: Industrial application and 5/6G applications
+## <span style="color:rgb(189,75,49)">Session 5</span>: Industrial application and 5/6G applications
 
 - <span style="color:black">__Towards Novel Statistical Methods for Anomaly Detection in Industrial Processes__</span>, 
   <span style="color:#999999">Simone Tonini, Department of Excellence EMbeDS Sant’Anna School for Advanced Studies Pisa Italy; Fernando Barsacchi, A. Celli Group Porcari Lucca Italy; Francesca Chiaromonte, Department of Excellence EMbeDS and Institute of Economics Sant’Anna School for Advanced Studies Pisa Italy and Dept. of Statistics and Huck Institutes of the Life Sciences The Pennsylvania State University USA; Daniele Licari, Department of Excellence EMbeDS Sant’Anna School for Advanced Studies Pisa Italy; Andrea Vandin, Department of Excellence EMbeDS and Institute of Economics Sant’Anna School 
