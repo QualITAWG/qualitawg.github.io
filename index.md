@@ -6,6 +6,7 @@ title: Home
 
 *Supported by the [CINI WG on SSQ](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality) and by the project RESTART: RESearch and innovation on future Telecommunications systems and networks, to make Italy more smART.
 Funded under the PNRR program Mission 4, Component 2, Investment 1.3* <br/>
+<br/><br/>
 *Hosted by University of Florence,  within the 37th International Conference on Modelling and Simulation, [ECMS23](https://scs-europe.net/conf/ecms2023/).*
   
 {% include figure.html img="SSQ_logo.png" alt="SSQ Logo" caption="" width="50%" %}
