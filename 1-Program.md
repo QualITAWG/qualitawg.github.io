@@ -7,23 +7,27 @@ nav: true
 
 ## Day 1	
 
-- 08:50  - 9:00	Welcome
-- 09:00  - 9:30	Invited-1
-- 09:30  - 10:30 <a style="color:orange" href="#session-1-performance-optimization-of-software-systems">Session 1</a>: Performance optimization of software systems
-- 10:30 - 10:50	Break
-- 10:50 - 11:50	<a style="color:rgb(234,51,247)" href="#session-2-tools-and-frameworks">Session 2</a>: Tools and Frameworks
-- 11:50 - 13:05	<a style="color:rgb(117,252,76)" href="#sessione-3-critical-systems-and-secruity-assessment">Sessione 3</a>: Critical systems and secruity assessment 
-- 13:05 - 14:15	Lunch
-- 14:15 - 14:45	Invited-2
-- 14:45 - 15:45	<a style="color:rgb(89,132,225)" href="#session-4-performance-modeling-and-evaluation-of-software">Session 4</a>: Performance modeling and evaluation of software
-- 15:45 - 16:15	Break
-- 16:15 - 17:15	<a style="color:rgb(189,75,49)" href="#session-5-industrial-application-and-56g-applications">Session 5</a>: Industrial application and 5/6G applications
+- 09:00  - 9:10	Welcome
+- 09:10  - 9:40	Invited
+- 09:40  - 10:40 <a style="color:orange" href="#session-1-performance-optimization-of-software-systems">Session 1</a>: Performance optimization of software systems
+- 10:40 - 11:00	Break
+- 11:00 - 12:00	<a style="color:rgb(234,51,247)" href="#session-2-tools-and-frameworks">Session 2</a>: Tools and Frameworks
+- 12:00 - 13:00	<a style="color:rgb(117,252,76)" href="#sessione-3-critical-systems-and-secruity-assessment">Sessione 3</a>: Critical systems and secruity assessment 
+- 13:00 - 14:15	Lunch
+- 14:15 - 15:15	<a style="color:rgb(89,132,225)" href="#session-4-performance-modeling-and-evaluation-of-software">Session 4</a>: Performance modeling and evaluation of software
+- 15:15 - 15:35	Break
+- 15:35 - 16:35	<a style="color:rgb(189,75,49)" href="#session-5-industrial-application-and-56g-applications">Session 5</a>: Industrial application and 5/6G applications
 
 ## Day 2
 
 - 09:00-12:00 Discussion and next steps
 
 # Talks
+
+## Invited
+- <span style="color:black">Service Quality Adaptive Processes</span>,  
+<span style="color:#999999">Lorenzo Franceschini, PagoPA; Alessio Dore, PagoPA </span>
+
 
 ## <span style="color:orange">Session 1</span>: Performance optimization of software systems
 
