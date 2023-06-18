@@ -12,7 +12,7 @@ nav: true
 - 09:40  - 10:40 <a style="color:orange" href="#session-1-performance-optimization-of-software-systems">Session 1</a>: Performance optimization of software systems
 - 10:40 - 11:00	Break
 - 11:00 - 12:00	<a style="color:rgb(234,51,247)" href="#session-2-tools-and-frameworks">Session 2</a>: Tools and Frameworks
-- 12:00 - 13:00	<a style="color:rgb(117,252,76)" href="#sessione-3-critical-systems-and-secruity-assessment">Sessione 3</a>: Critical systems and secruity assessment 
+- 12:00 - 13:00	<a style="color:rgb(117,252,76)" href="#sessione-3-critical-systems-and-security-assessment">Sessione 3</a>: Critical systems and security assessment 
 - 13:00 - 14:15	Lunch
 - 14:15 - 15:15	<a style="color:rgb(89,132,225)" href="#session-4-performance-modeling-and-evaluation-of-software">Session 4</a>: Performance modeling and evaluation of software
 - 15:15 - 15:35	Break
@@ -25,7 +25,7 @@ nav: true
 # Talks
 
 ## Invited
-- <span style="color:black">Service Quality Adaptive Processes</span>,  
+- <span style="color:black">Service Quality Adaptive Processes</span>,
 <span style="color:#999999">Lorenzo Franceschini, PagoPA; Alessio Dore, PagoPA </span>
 
 
@@ -51,7 +51,7 @@ nav: true
 - <span style="color:black">__A multiformalism-based model for performance evaluation of multi-architecture green data centers__</span>, 
 <span style="color:#999999">Marco Gribaudo, Politecnico di Milano; Enrico Barbierato, a, Università Cattolica del Sacro Cuore; Daniele Manini, Università di Torino</span>
 
-## <span style="color:rgb(117,252,76)">Sessione 3</span>: Critical systems and secruity assessment 
+## <span style="color:rgb(117,252,76)">Sessione 3</span>: Critical systems and security assessment 
 
 - <span style="color:black">__Trends on mixed-criticality system architectures: new venues for application of QoS analysis techniques__</span>,
   <span style="color:#999999">Raffaele Zippo, Università di Pisa; Md Amirul Islam, Università di Pisa; Giovanni Stea, Università di Pisa</span>
