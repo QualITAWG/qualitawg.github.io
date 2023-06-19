@@ -12,8 +12,8 @@ nav: true
 - 10:25 - 10:55	<a style="color:rgb(234,51,247)" href="#session-2-tools-and-frameworks">Session 2.1</a>: Tools and Frameworks
 - 10:55 - 11:15	Break
 - 11:15 - 11:45	<a style="color:rgb(234,51,247)" href="#session-2-tools-and-frameworks">Session 2.2</a>: Tools and Frameworks
-- 11:45 - 12:45	<a style="color:rgb(117,252,76)" href="#sessione-3-critical-systems-and-security-assessment">Sessione 3</a>: Critical systems and security assessment 
-- 12:45 - 14:00	Lunch
+- 11:45 - 13:00	<a style="color:rgb(117,252,76)" href="#sessione-3-critical-systems-and-security-assessment">Sessione 3</a>: Critical systems and security assessment 
+- 13:00 - 14:00	Lunch
 - 14:00  - 14:30	Invited
 - 14:30 - 15:30	<a style="color:rgb(89,132,225)" href="#session-4-performance-modeling-and-evaluation-of-software">Session 4</a>: Performance modeling and evaluation of software
 - 15:30 - 15:50	Coffee Break
