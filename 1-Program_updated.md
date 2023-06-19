@@ -25,11 +25,6 @@ nav: true
 
 # Talks
 
-## Invited
-- <span style="color:black">Service Quality Adaptive Processes</span>,
-<span style="color:#999999">Lorenzo Franceschini, PagoPA; Alessio Dore, PagoPA </span>
-
-
 ## <span style="color:orange">Session 1</span>: Performance optimization of software systems
 
 - <span style="color:black">__Optimal Scaling of Microservice Architectures Using Queueing Networks__</span>,  
@@ -64,6 +59,10 @@ nav: true
   <span style="color:#999999">Mauro Iacono, Università degli Studi della Campania "Luigi Vanvitelli"; Michele Mastroianni, Università degli Studi di Salerno</span>
 - <span style="color:black">__Dependability 2.0: beyond current vision and concepts through a cause-effect approach__</span>,
   <span style="color:#999999">Salvatore Distefano, Università degli Studi di Messina</span>
+
+## Invited
+- <span style="color:black">Service Quality Adaptive Processes</span>,
+<span style="color:#999999">Lorenzo Franceschini, PagoPA; Alessio Dore, PagoPA </span>
 
 
 ## <span style="color:rgb(89,132,225)">Session 4</span>: Performance modeling and evaluation of software
