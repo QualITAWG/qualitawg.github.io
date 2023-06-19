@@ -14,10 +14,10 @@ nav: true
 - 11:15 - 11:45	<a style="color:rgb(234,51,247)" href="#session-2-tools-and-frameworks">Session 2.2</a>: Tools and Frameworks
 - 11:45 - 13:00	<a style="color:rgb(117,252,76)" href="#sessione-3-critical-systems-and-security-assessment">Sessione 3</a>: Critical systems and security assessment 
 - 13:00 - 14:00	Lunch
-- 14:00  - 14:30	Invited
-- 14:30 - 15:30	<a style="color:rgb(89,132,225)" href="#session-4-performance-modeling-and-evaluation-of-software">Session 4</a>: Performance modeling and evaluation of software
-- 15:30 - 15:50	Coffee Break
-- 15:50 - 16:50	<a style="color:rgb(189,75,49)" href="#session-5-industrial-application-and-56g-applications">Session 5</a>: Industrial application and 5/6G applications
+- 14:10  - 14:40	Invited
+- 14:40 - 16:00	<a style="color:rgb(89,132,225)" href="#session-4-performance-modeling-and-evaluation-of-software">Session 4</a>: Performance modeling and evaluation of software
+- 16:00 - 16:20	Coffee Break
+- 16:20 - 17:20	<a style="color:rgb(189,75,49)" href="#session-5-industrial-application-and-56g-applications">Session 5</a>: Industrial application and 5/6G applications
 
 ## Day 2
 
@@ -57,8 +57,6 @@ nav: true
   <span style="color:#999999">Ivan Malakhov, Universita' Ca' Foscari Venezia; Andrea Marin, Universita' Ca' Foscari Venezia; Sabina Rossi, Universita' Ca' Foscari Venezia; Daria Smuseva, Universita' Ca' Foscari Venezia</span>
 - <span style="color:black">__Evaluating the role of software quality on policies for privacy and security__</span>,
   <span style="color:#999999">Mauro Iacono, Università degli Studi della Campania "Luigi Vanvitelli"; Michele Mastroianni, Università degli Studi di Salerno</span>
-- <span style="color:black">__Dependability 2.0: beyond current vision and concepts through a cause-effect approach__</span>,
-  <span style="color:#999999">Salvatore Distefano, Università degli Studi di Messina</span>
 
 ## Invited
 - <span style="color:black">Service Quality Adaptive Processes</span>,
@@ -66,6 +64,9 @@ nav: true
 
 
 ## <span style="color:rgb(89,132,225)">Session 4</span>: Performance modeling and evaluation of software
+- <span style="color:black">__Dependability 2.0: beyond current vision and concepts through a cause-effect approach__</span>,
+  <span style="color:#999999">Salvatore Distefano, Università degli Studi di Messina</span>
+
 
 - <span style="color:black">__Towards effective assessment of steady state performance in Java software: Are we there yet?__</span>,
   <span style="color:#999999">Luca Traini, Università degli studi dell'Aquila; Vittorio Cortellessa, Università degli studi dell'Aquila; Daniele Di Pompeo, Università degli studi dell'Aquila; Michele Tucci, Università degli studi dell'Aquila</span>
