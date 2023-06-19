@@ -30,7 +30,7 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 
 ## Program
 
-- [Program - _under construction_](https://qualitawg.github.io/1-Program.html)
+- [Program](https://qualitawg.github.io/1-Program_updated.html)
 
 ## Venue and travel information
 
