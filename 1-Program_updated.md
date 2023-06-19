@@ -16,7 +16,7 @@ nav: true
 - 12:45 - 14:00	Lunch
 - 14:00  - 14:30	Invited
 - 14:30 - 15:30	<a style="color:rgb(89,132,225)" href="#session-4-performance-modeling-and-evaluation-of-software">Session 4</a>: Performance modeling and evaluation of software
-- 15:30 - 15:50	Break
+- 15:30 - 15:50	Coffee Break
 - 15:50 - 16:50	<a style="color:rgb(189,75,49)" href="#session-5-industrial-application-and-56g-applications">Session 5</a>: Industrial application and 5/6G applications
 
 ## Day 2
