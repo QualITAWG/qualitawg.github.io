@@ -8,14 +8,14 @@
 
 # Site settings
 # title appears in the header
-title: QualITA 2023
+title: QualITA 2024
 # description and keywords for meta tags
-description: "Conference on System and Service Quality - QualIta 2023"
+description: "Conference on System and Service Quality - QualIta 2024"
 keywords: "System,Service,Quality,Software"
 
 # author settings for cc-by, appears in the footer
 author: CINI WG on SSQ
-pub_year: 2023
+pub_year: 2024
 github_username: QualITAWG/qualitawg.github.io
 
 # add the full url for the github repository

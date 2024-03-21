@@ -1,6 +1,6 @@
 ---
 title: Program
-nav: true
+nav: false
 ---
 
 # Conference Program

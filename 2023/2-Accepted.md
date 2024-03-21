@@ -1,6 +1,6 @@
 ---
 title: Accepted Contributions
-nav: true
+nav: false
 ---
 
 # Accepted Contributions

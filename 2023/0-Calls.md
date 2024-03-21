@@ -1,6 +1,6 @@
 ---
 title: Calls
-nav: true
+nav: false
 ---
 
 # Open Calls
@@ -38,7 +38,7 @@ their research and experiences.
 
 ## Case Study and Industrial Practice
 
-QualITA 24 launches the Quantitative methods in Industrial practice session in
+QualITA 23 launches the Quantitative methods in Industrial practice session in
 the spirit of highlighting the importance and the impact of quantitative
 information technology in the landscape of research partnerships with
 companies, especially those located in Italy.
@@ -92,11 +92,11 @@ We call for you to participate in this gathering with the key objectives of:
 
 ## Submission Instructions
 
-QualITA 24 accepts contributions covering all aspects of quality, such as monitoring, benchmarking, measuring, modeling, assessing, capacity planning, workload characterization, operational analysis, verification, validation, and testing. Both methodological and practical aspects are taken into account, including any technique (e.g. analytical models, simulators, statistical analysis, machine learning, formal methods, soft computing) and tool, in any possible digital system and service application domain (e.g. real-time, blockchain, systems of systems, cyber-physical systems, IoT, Cloud, Fog, Edge, Intelligent transportation systems, fintech, digital health, blockchain).
+QualITA 23 accepts contributions covering all aspects of quality, such as monitoring, benchmarking, measuring, modeling, assessing, capacity planning, workload characterization, operational analysis, verification, validation, and testing. Both methodological and practical aspects are taken into account, including any technique (e.g. analytical models, simulators, statistical analysis, machine learning, formal methods, soft computing) and tool, in any possible digital system and service application domain (e.g. real-time, blockchain, systems of systems, cyber-physical systems, IoT, Cloud, Fog, Edge, Intelligent transportation systems, fintech, digital health, blockchain).
 According to the spirit of the conference, the review process will be aimed at providing comments that could be used by the authors mostly for strengthening the contribution form, making them accessible and useful for the broad audience, and increasing the likelihood of generating fruitful discussions. 
 
-- Deadline: **April, 21st**
-- Notification: **May, 21st**
+- Deadline: April, 21st
+- Notification: May, 21st
 - Submission Formats: extended abstracts of 1-2 pages
 
 
@@ -117,9 +117,12 @@ No copyright will be required, nor an indexed publication will be produced. The 
 
 Contributions should be submitted in electronic format (PDF) through the Google Form available at:
 
-[submission form](https://forms.gle/p4mzMrT4r4HWBrkr6)
+[submission form](https://forms.gle/d3JAXgTCQx6C6Vtr6)
 
 ## Registration Instructions
 
-To be announced.
+Registration for the QualITA event is free but mandatory and possible through the following form:
+
+[registration form](https://forms.gle/uoPrKB8fqUXQBfFW8)
+
 

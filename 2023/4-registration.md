@@ -1,6 +1,6 @@
 ---
 title: Registration
-nav: true
+nav: false
 ---
 
 # Registration Instructions
