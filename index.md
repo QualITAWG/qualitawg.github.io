@@ -4,6 +4,10 @@ title: Home
 
 # The Third Conference on System and Service Quality - QualITA, June 13, 2024, Venice, Italy.
 
+*Supported by the [CINI WG on SSQ](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality),
+by [Ca' Foscari University of Venice](https://www.unive.it),
+and by the [SPENCER Lab](https://spencerlabaq.github.io/) at [University of L'Aquila](https://www.univaq.it).*
+
 {% include figure.html img="SSQ_logo.png" alt="SSQ Logo" caption="" width="50%" %}
 
 ## Overview
