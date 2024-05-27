@@ -31,7 +31,7 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 
 ## Program
 
-- To be announced
+- [Program](1-Program.html)
 
 ## Venue and travel information
 
