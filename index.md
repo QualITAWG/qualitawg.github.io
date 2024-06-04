@@ -38,6 +38,10 @@ Technologies such as Cloud computing, IoT, 5G networks, Big Data and AI have sta
 - [Transportation](https://servizimetropolitani.ve.it/en/san-servolo-island/where-we-are/)
 - [Accommodation](https://www.sigmetrics.org/sigmetrics2024/accommodation.html)
 
+## Registration
+- Registration for the QualITA event is free but mandatory, through the following form: 
+  [Registration Form](https://forms.gle/KVX3oxSURph3MJ9Y8)
+
 ## Organizers
 - [Elvio Gilberto Amparore](https://informatica.unito.it/do/docenti.pl/Alias?elviogilberto.amparore#tab-profilo) - University of Turin, Italy
 - [Michele Tucci](https://spencerlabaq.github.io/author/michele-tucci/) - SPENCER lab, University of L'Aquila, Italy
