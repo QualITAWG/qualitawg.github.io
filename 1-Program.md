@@ -5,6 +5,8 @@ nav: false
 
 # (Tentative) Conference Program
 
+## Day 1 - June 13
+
 - <font color="#666">09:00 - 09:15 Welcome</font>
 - 09:15 - 09:45 Invited speaker: Diego Cavallini (NTTData)
 - 09:45 - 10:30 Session 1: Cloud and Edge Computing
@@ -17,6 +19,9 @@ nav: false
 - 15:15 - 15:45	Session 4: Dependability
 - 15:45 - 17:00	Session 5: Artificial Intelligence / Machine Learning
 - <font color="#666">17:00 - 17:05 Closing</font>
+
+## Day 2 - June 14
+- 09:00 - 12:00 Meeting of the CINI WG on SSQ
 
 # Talks
 
