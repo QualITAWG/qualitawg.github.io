@@ -145,6 +145,20 @@ nav: false
 ,
     Davide Cerotti <span style="font-size:0.8em;color:#666">University of Eastern Piedmont</span>
     </p>
+- **Stateful Software Systems: Unraveling the Complexities of Transient Data Management**\
+    <p style="margin-left:2em">
+    Laura Carnevali <span style="font-size:0.8em;color:#666">University of Florence</span>
+,
+    Benedetta Picano <span style="font-size:0.8em;color:#666">University of Florence</span>
+,
+    Riccardo Reali <span style="font-size:0.8em;color:#666">University of Florence</span>
+,
+    Leonardo Scommegna <span style="font-size:0.8em;color:#666">University of Florence</span>
+,
+    Roberto Verdecchia <span style="font-size:0.8em;color:#666">University of Florence</span>
+,
+    Enrico Vicario <span style="font-size:0.8em;color:#666">University of Florence</span>
+    </p>
 - **Quantum Computing Dependability**\
     <p style="margin-left:2em">
     Salvatore Distefano <span style="font-size:0.8em;color:#666">University of Messina</span>
