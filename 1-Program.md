@@ -86,7 +86,9 @@ nav: false
     </p>
 - **Fast and Accurate Estimation of Service Time Distribution in Queueing Networks through Fluid Analysis**\
     <p style="margin-left:2em">
-    Emilio Incerto <span style="font-size:0.8em;color:#666">Mirco Tribastone</span>
+    Emilio Incerto <span style="font-size:0.8em;color:#666">IMT School for Advanced Studies Lucca</span>
+,
+    Mirco Tribastone <span style="font-size:0.8em;color:#666">IMT School for Advanced Studies Lucca</span>
     </p>
 - **An Empirical Study on Code Coverage of Performance Testing**\
     <p style="margin-left:2em">
