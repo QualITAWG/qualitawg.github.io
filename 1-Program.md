@@ -10,7 +10,7 @@ nav: false
 - <font color="#666">09:00 - 09:15 Welcome</font>
 - 09:15 - 10:30 Session 1: Performance Modelling & Dependability
 - <font color="#666">10:30 - 11:00 Coffee break</font>
-- 11:00 - 11:45 Invited speaker: Diego Cavallini (NTTData)
+- 11:00 - 11:45 Invited speakers: Masetto, Cavallini, Melillo, Gualtiero (NTTData)
 - 11:45 - 12:15	Session 2: Cloud and Edge Computing
 - <font color="#666">12:15 - 13:30 Lunch</font>
 - 13:30 - 14:15 Invited speaker: Matteo Zanioli (Alpenite)
@@ -25,7 +25,24 @@ nav: false
 
 # Talks
 
-## Invited speaker: Diego Cavallini (NTTData)
+## Invited speakers: Masetto, Cavallini, Melillo, Gualtiero (NTTData)
+
+**Title:**
+Do you have the X Factor on performance tuning?
+
+**Abstract:**
+
+Part 1: how to use APM (Application Performance Monitoring) in SAP e-commerce projects to monitor infrastructure, applications and digital experience, in a single automated solution based on artificial intelligence: Dynatrace. (15 min)
+
+Alessandro Masetto – Digital & Technology Leader at NTT DATA
+
+Diego Cavallini – Executive Manager at NTT DATA
+
+Part 2: Sky X Factor case (Voting Platform): the best synergy between Cloud tools and technology to reach a highly scalable and performing application for a very large audience event. (15 min)
+
+Raffaele Melillo – Senior Software Engineer at NTT DATA
+
+Gualtiero Debernardi - QA & Automation at Sky Italia
 
 ---
 
