@@ -10,7 +10,7 @@ nav: false
 - <font color="#666">09:00 - 09:15 Welcome</font>
 - 09:15 - 10:30 Session 1: Performance Modelling & Dependability
 - <font color="#666">10:30 - 11:00 Coffee break</font>
-- 11:00 - 11:45 Invited speakers: Masetto, Cavallini, Melillo, Gualtiero (NTTData)
+- 11:00 - 11:45 Invited speakers: Masetto, Cavallini, Melillo, Gualtiero (NTT Data and Sky Italia)
 - 11:45 - 12:15	Session 2: Cloud and Edge Computing
 - <font color="#666">12:15 - 13:30 Lunch</font>
 - 13:30 - 14:15 Invited speaker: Matteo Zanioli (Alpenite)
@@ -25,7 +25,7 @@ nav: false
 
 # Talks
 
-## Invited speakers: Masetto, Cavallini, Melillo, Gualtiero (NTTData)
+## Invited speakers: Masetto, Cavallini, Melillo, Gualtiero (NTT Data and Sky Italia)
 
 **Title:**
 Do you have the X Factor on performance tuning?
