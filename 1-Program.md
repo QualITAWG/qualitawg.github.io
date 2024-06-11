@@ -16,7 +16,7 @@ nav: false
 - 13:30 - 14:15 Invited speaker: Matteo Zanioli (Alpenite)
 - 14:15 - 14:45	Session 3: Tools and Frameworks
 - <font color="#666">14:45 - 15:15 Coffee break</font>
-- 15:15 - 16:00	Invited speaker Panella Amalia (Almaviva)
+- 15:15 - 16:00	Invited speakers: Ponzoni Roberto and Geremia Matteo (Almaviva)
 - 16:00 - 17:00	Session 4: Artificial Intelligence / Machine Learning
 - <font color="#666">17:00 - 17:05 Closing</font>
 
@@ -147,6 +147,13 @@ Gualtiero Debernardi - QA & Automation at Sky Italia
 
 ## Invited speaker: Matteo Zanioli (Alpenite)
 
+**Title:**
+Quality assurance: turn up everywhere
+
+**Abstract:**
+
+The quality assurance process is mandatory for some kind of projects. In Arsenalia we defined processes and tools for managing that during the all phases of a project: from the kickoff to the application maintenance. The talk will describe processes and tools, highlighting what we are doing to improve them and what we are looking for increase the efficiency.
+
 ---
 
 ## **Session 3: Tools and Frameworks**
@@ -179,7 +186,14 @@ Gualtiero Debernardi - QA & Automation at Sky Italia
 
 ---
 
-## Invited speaker: Panella Amalia (Almaviva)
+## Invited speakers: Ponzoni Roberto and Geremia Matteo (Almaviva)
+
+**Title:**
+Preventivass: Scalabilità e performance su AWS.
+
+**Abstract:**
+
+Il caso d'uso preventivass.it, come abbiamo creato un sistema in grado di gestire picchi di traffico non prevedibili fino a 50.000 preventivi al minuto senza grandi risorse dedicate. Overview di come le best practice, CI/CD e analisi statica del codice possono aiutare a mantenere elevati standard di qualità su progetti moderni e complessi.
 
 ---
 
