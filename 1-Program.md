@@ -3,21 +3,21 @@ title: Program
 nav: false
 ---
 
-# (Tentative) Conference Program
+# Conference Program
 
 ## Day 1 - June 13
 
 - <font color="#666">09:00 - 09:15 Welcome</font>
-- 09:15 - 09:45 Invited speaker: Diego Cavallini (NTTData)
-- 09:45 - 10:30 Session 1: Cloud and Edge Computing
+- 09:15 - 10:30 Session 1: Performance Modelling & Dependability
 - <font color="#666">10:30 - 11:00 Coffee break</font>
-- 11:00 - 12:15	Session 2: Performance Modelling and Evaluation
+- 11:00 - 11:45 Invited speaker: Diego Cavallini (NTTData)
+- 11:45 - 12:15	Session 2: Cloud and Edge Computing
 - <font color="#666">12:15 - 13:30 Lunch</font>
-- 13:30 - 14:00 Invited speaker: Matteo Zanioli (Alpenite)
-- 14:00 - 14:45	Session 3: Tools and Frameworks
+- 13:30 - 14:15 Invited speaker: Matteo Zanioli (Alpenite)
+- 14:15 - 14:45	Session 3: Tools and Frameworks
 - <font color="#666">14:45 - 15:15 Coffee break</font>
-- 15:15 - 15:45	Session 4: Dependability
-- 15:45 - 17:00	Session 5: Artificial Intelligence / Machine Learning
+- 15:15 - 16:00	Invited speaker Panella Amalia (Almaviva)
+- 16:00 - 17:00	Session 4: Artificial Intelligence / Machine Learning
 - <font color="#666">17:00 - 17:05 Closing</font>
 
 ## Day 2 - June 14
@@ -29,51 +29,7 @@ nav: false
 
 ---
 
-## **Session 1: Cloud and Edge Computing**
-- **Gaming on the Edge**\
-    <p style="margin-left:2em">
-    Diletta Olliaro <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
-,
-    Paolo Castagno <span style="font-size:0.8em;color:#666">University of Turin</span>
-,
-    Vincenzo Mancuso <span style="font-size:0.8em;color:#666">IMDEA Networks Institute</span>
-,
-    Marco Ajmone Marsan <span style="font-size:0.8em;color:#666">IMDEA Networks Institute</span>
-,
-    Matteo Sereno <span style="font-size:0.8em;color:#666">University of Turin</span>
-    </p>
-- **Performance Evaluation of Placement Policies for Cloud-Edge Applications**\
-    <p style="margin-left:2em">
-    Ivan Giuseppe Mongiardo <span style="font-size:0.8em;color:#666">University of Pavia</span>
-,
-    Luisa Massari <span style="font-size:0.8em;color:#666">University of Pavia</span>
-,
-    Maria Carla Calzarossa <span style="font-size:0.8em;color:#666">University of Pavia</span>
-,
-    Belen Bermejo <span style="font-size:0.8em;color:#666">University of Balearic Islands</span>
-,
-    Daniele Tessera <span style="font-size:0.8em;color:#666">Catholic University of Sacred Heart</span>
-    </p>
-- **Edge-Cloud continuum for business continuity in IoT applications**\
-    <p style="margin-left:2em">
-    Carmine Colarusso <span style="font-size:0.8em;color:#666">University of Sannio</span>
-,
-    Ida Falco <span style="font-size:0.8em;color:#666">University of Sannio</span>
-,
-    Eugenio Zimeo <span style="font-size:0.8em;color:#666">University of Sannio and CINI</span>
-    </p>
-- **Exploring sustainable alternatives for the deployment of microservices architectures in the cloud**\
-    <p style="margin-left:2em">
-    Vittorio Cortellessa <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
-,
-    Daniele Di Pompeo <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
-,
-    Michele Tucci <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
-    </p>
-
----
-
-## **Session 2: Performance Modeling and Evaluation**
+## **Session 1: Performance Modeling and Dependability**
 - **The Two-Classes FIFO Multiserver Job Queueing Model: An Analytical Approach**\
     <p style="margin-left:2em">
     Adityo Anggraito <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
@@ -120,6 +76,55 @@ nav: false
 ,
     Salvatore Serrano <span style="font-size:0.8em;color:#666">University of Messina</span>
     </p>
+- **Simulation techniques for the generation of security metrics in Cyber Physical Power Systems**\
+    <p style="margin-left:2em">
+    Davide Savarro <span style="font-size:0.8em;color:#666">University of Turin</span>
+,
+    Giuliana Franceschinis <span style="font-size:0.8em;color:#666">University of Eastern Piedmont</span>
+,
+    Davide Cerotti <span style="font-size:0.8em;color:#666">University of Eastern Piedmont</span>
+    </p>
+- **Quantum Computing Dependability**\
+    <p style="margin-left:2em">
+    Salvatore Distefano <span style="font-size:0.8em;color:#666">University of Messina</span>
+    </p>
+
+---
+
+## **Session 2: Cloud and Edge Computing**
+- **Gaming on the Edge**\
+    <p style="margin-left:2em">
+    Diletta Olliaro <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
+,
+    Paolo Castagno <span style="font-size:0.8em;color:#666">University of Turin</span>
+,
+    Vincenzo Mancuso <span style="font-size:0.8em;color:#666">IMDEA Networks Institute</span>
+,
+    Marco Ajmone Marsan <span style="font-size:0.8em;color:#666">IMDEA Networks Institute</span>
+,
+    Matteo Sereno <span style="font-size:0.8em;color:#666">University of Turin</span>
+    </p>
+- **Performance Evaluation of Placement Policies for Cloud-Edge Applications**\
+    <p style="margin-left:2em">
+    Ivan Giuseppe Mongiardo <span style="font-size:0.8em;color:#666">University of Pavia</span>
+,
+    Luisa Massari <span style="font-size:0.8em;color:#666">University of Pavia</span>
+,
+    Maria Carla Calzarossa <span style="font-size:0.8em;color:#666">University of Pavia</span>
+,
+    Belen Bermejo <span style="font-size:0.8em;color:#666">University of Balearic Islands</span>
+,
+    Daniele Tessera <span style="font-size:0.8em;color:#666">Catholic University of Sacred Heart</span>
+    </p>
+- **Edge-Cloud continuum for business continuity in IoT applications**\
+    <p style="margin-left:2em">
+    Carmine Colarusso <span style="font-size:0.8em;color:#666">University of Sannio</span>
+,
+    Ida Falco <span style="font-size:0.8em;color:#666">University of Sannio</span>
+,
+    Eugenio Zimeo <span style="font-size:0.8em;color:#666">University of Sannio and CINI</span>
+    </p>
+
 
 ---
 
@@ -140,18 +145,6 @@ nav: false
 ,
     Daniele Di Pompeo <span style="font-size:0.8em;color:#666">University Of L'Aquila</span>
     </p>
-
----
-
-## **Session 4: Dependability**
-- **Simulation techniques for the generation of security metrics in Cyber Physical Power Systems**\
-    <p style="margin-left:2em">
-    Davide Savarro <span style="font-size:0.8em;color:#666">University of Turin</span>
-,
-    Giuliana Franceschinis <span style="font-size:0.8em;color:#666">University of Eastern Piedmont</span>
-,
-    Davide Cerotti <span style="font-size:0.8em;color:#666">University of Eastern Piedmont</span>
-    </p>
 - **Stateful Software Systems: Unraveling the Complexities of Transient Data Management**\
     <p style="margin-left:2em">
     Laura Carnevali <span style="font-size:0.8em;color:#666">University of Florence</span>
@@ -166,14 +159,14 @@ nav: false
 ,
     Enrico Vicario <span style="font-size:0.8em;color:#666">University of Florence</span>
     </p>
-- **Quantum Computing Dependability**\
-    <p style="margin-left:2em">
-    Salvatore Distefano <span style="font-size:0.8em;color:#666">University of Messina</span>
-    </p>
 
 ---
 
-## **Session 5: Artificial Intelligence / Machine Learning**
+## Invited speaker: Panella Amalia (Almaviva)
+
+---
+
+## **Session 4: Artificial Intelligence / Machine Learning**
 - **Explainable AI for Systems and Service Quality**\
     <p style="margin-left:2em">
     Elvio Amparore <span style="font-size:0.8em;color:#666">University of Turin</span>
@@ -213,5 +206,13 @@ nav: false
     Gemma Catolino <span style="font-size:0.8em;color:#666">University of Salerno</span>
 ,
     Fabio Palomba <span style="font-size:0.8em;color:#666">University of Salerno</span>
+    </p>
+- **Exploring sustainable alternatives for the deployment of microservices architectures in the cloud**\
+    <p style="margin-left:2em">
+    Vittorio Cortellessa <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
+,
+    Daniele Di Pompeo <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
+,
+    Michele Tucci <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
     </p>
 
