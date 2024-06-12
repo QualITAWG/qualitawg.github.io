@@ -25,27 +25,6 @@ nav: false
 
 # Talks
 
-## Invited speakers: Masetto, Cavallini, Melillo, Gualtiero (NTT Data and Sky Italia)
-
-**Title:**
-Do you have the X Factor on performance tuning?
-
-**Abstract:**
-
-Part 1: how to use APM (Application Performance Monitoring) in SAP e-commerce projects to monitor infrastructure, applications and digital experience, in a single automated solution based on artificial intelligence: Dynatrace. (15 min)
-
-Alessandro Masetto – Digital & Technology Leader at NTT DATA
-
-Diego Cavallini – Executive Manager at NTT DATA
-
-Part 2: Sky X Factor case (Voting Platform): the best synergy between Cloud tools and technology to reach a highly scalable and performing application for a very large audience event. (15 min)
-
-Raffaele Melillo – Senior Software Engineer at NTT DATA
-
-Gualtiero Debernardi - QA & Automation at Sky Italia
-
----
-
 ## **Session 1: Performance Modeling and Dependability**
 - **The Two-Classes FIFO Multiserver Job Queueing Model: An Analytical Approach**\
     <p style="margin-left:2em">
@@ -107,6 +86,26 @@ Gualtiero Debernardi - QA & Automation at Sky Italia
     </p>
 
 ---
+
+## Invited speakers: Masetto, Cavallini, Melillo, Gualtiero (NTT Data and Sky Italia)
+
+**Title:**
+Do you have the X Factor on performance tuning?
+
+**Abstract:**
+
+Part 1: how to use APM (Application Performance Monitoring) in SAP e-commerce projects to monitor infrastructure, applications and digital experience, in a single automated solution based on artificial intelligence: Dynatrace. (15 min)
+
+Alessandro Masetto – Digital & Technology Leader at NTT DATA
+
+Diego Cavallini – Executive Manager at NTT DATA
+
+Part 2: Sky X Factor case (Voting Platform): the best synergy between Cloud tools and technology to reach a highly scalable and performing application for a very large audience event. (15 min)
+
+Raffaele Melillo – Senior Software Engineer at NTT DATA
+
+Gualtiero Debernardi - QA & Automation at Sky Italia
+
 
 ## **Session 2: Cloud and Edge Computing**
 - **Gaming on the Edge**\
