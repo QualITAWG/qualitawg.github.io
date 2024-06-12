@@ -26,16 +26,6 @@ nav: false
 # Talks
 
 ## **Session 1: Performance Modeling and Dependability**
-- **The Two-Classes FIFO Multiserver Job Queueing Model: An Analytical Approach**\
-    <p style="margin-left:2em">
-    Adityo Anggraito <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
-,
-    Diletta Olliaro <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
-,
-    Marco Ajmone Marsan <span style="font-size:0.8em;color:#666">IMDEA Networks Institute</span>
-,
-    Andrea Marin <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
-    </p>
 - **Fast and Accurate Estimation of Service Time Distribution in Queueing Networks through Fluid Analysis**\
     <p style="margin-left:2em">
     Emilio Incerto <span style="font-size:0.8em;color:#666">IMT School for Advanced Studies Lucca</span>
@@ -83,6 +73,14 @@ nav: false
 - **Quantum Computing Dependability**\
     <p style="margin-left:2em">
     Salvatore Distefano <span style="font-size:0.8em;color:#666">University of Messina</span>
+    </p>
+- **Edge-Cloud continuum for business continuity in IoT applications**\
+    <p style="margin-left:2em">
+    Carmine Colarusso <span style="font-size:0.8em;color:#666">University of Sannio</span>
+,
+    Ida Falco <span style="font-size:0.8em;color:#666">University of Sannio</span>
+,
+    Eugenio Zimeo <span style="font-size:0.8em;color:#666">University of Sannio and CINI</span>
     </p>
 
 ---
@@ -132,13 +130,15 @@ Gualtiero Debernardi - QA & Automation at Sky Italia
 ,
     Daniele Tessera <span style="font-size:0.8em;color:#666">Catholic University of Sacred Heart</span>
     </p>
-- **Edge-Cloud continuum for business continuity in IoT applications**\
+- **The Two-Classes FIFO Multiserver Job Queueing Model: An Analytical Approach**\
     <p style="margin-left:2em">
-    Carmine Colarusso <span style="font-size:0.8em;color:#666">University of Sannio</span>
+    Adityo Anggraito <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
 ,
-    Ida Falco <span style="font-size:0.8em;color:#666">University of Sannio</span>
+    Diletta Olliaro <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
 ,
-    Eugenio Zimeo <span style="font-size:0.8em;color:#666">University of Sannio and CINI</span>
+    Marco Ajmone Marsan <span style="font-size:0.8em;color:#666">IMDEA Networks Institute</span>
+,
+    Andrea Marin <span style="font-size:0.8em;color:#666">Ca' Foscari University of Venice</span>
     </p>
 
 
