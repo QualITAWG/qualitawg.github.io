@@ -144,7 +144,7 @@ Gualtiero Debernardi - QA & Automation at Sky Italia
 
 ---
 
-## Invited speaker: Matteo Zanioli (Alpenite)
+## Invited speaker: Matteo Zanioli (Arsenalia)
 
 **Title:**
 Quality assurance: turn up everywhere
