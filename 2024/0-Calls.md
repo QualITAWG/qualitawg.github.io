@@ -17,29 +17,24 @@ nav: true
 QualITA panel track is meant to be a unique academic and industrial
 forum to discuss different viewpoints concerning gaps and challenges to
 be addressed by the CINI WG on System and Service Quality community.
-QualITA panels are 15-minutes talks that are planned to be delivered in a session 
-of 30 minutes or 1 hour. 
-The conference is intended to be self-funded, and not requiring
+QualITA panels are planned to be delivered in a session of 30 minutes or
+1 hour. The conference is intended to be self-funded, and not requiring
 any registration fee. For this reason, there will be no economical
 support, unless a sponsor is found. Nevertheless, should there be the
 possibility of having a volunteer and self-funded Keynote speaker, a
 Keynote session could be introduced.
 
-## 5-Minute Pitch Presentations: Share Your Vision
+## Open Contributions (blue sky basic research free speech)
 
-To strengthen the CINI Working Group on System and Service Quality community, 
-the QualITA meeting will feature 5-minutes pitch presentations — dynamic, focused 
-talks designed to spark discussion and collaboration. 
-The goal of the pitch presentations is to foster knowledge sharing and lay the groundwork 
-for potential **new joint works**, which the authors may choose to further develop and 
-publish independently and at their own discretion, in the form and venue they consider 
-most appropriate.
-Participants are invited to present a brief slide-supported pitch highlighting 
-recent research results, project outcomes, group activities, or visionary (blue-sky) ideas. 
-This is a great opportunity to showcase your work in a clear and engaging way. 
-Slides are required — think concise, visual, and impactful.
-PhD students and young researchers are particularly encouraged to present their 
-research and experiences.
+The main reason for the QualITA meeting will be to strengthen the CINI
+WG on System and Service Quality community, by sharing to the
+participants the most recent results and achievements. For this reason
+there will be the opportunity of presenting a 20 minutes free speech
+contribution, which can be based on recent talks given in international
+conferences, on internal presentations, project meetings, summary of the
+activities of a research group or brand new ideas (blue sky). PhD
+students and young researchers are particularly encouraged to present
+their research and experiences.
 
 ## Case Study and Industrial Practice
 
@@ -97,25 +92,23 @@ We call for you to participate in this gathering with the key objectives of:
 
 ## Submission Instructions
 
-QualITA 24 accepts contributions covering all aspects of quality, such as monitoring, benchmarking,
-measuring, modeling, assessing, capacity planning, workload characterization, operational analysis,
-verification, validation, and testing. Both methodological and practical aspects 
-are taken into account, including any technique 
-(e.g. analytical models, simulators, statistical analysis, machine learning, formal methods, 
-soft computing) and tool, in any possible digital system and service application domain 
-(e.g. real-time, blockchain, systems of systems, cyber-physical systems, IoT, Cloud, Fog, 
-Edge, Intelligent transportation systems, fintech, digital health, blockchain).
-According to the spirit of the conference, the review process will be aimed at 
-providing comments that could be used by the authors mostly for strengthening 
-the contribution form, making them accessible and useful for the broad audience,
-and increasing the likelihood of generating fruitful discussions. 
+QualITA 24 accepts contributions covering all aspects of quality, such as monitoring, 
+benchmarking, measuring, modeling, assessing, capacity planning, workload characterization, 
+operational analysis, verification, validation, and testing. 
+Both methodological and practical aspects are taken into account, including any technique 
+(e.g. analytical models, simulators, statistical analysis, 
+machine learning, formal methods, soft computing) and tool, in any possible digital 
+system and service application domain (e.g. real-time, blockchain, systems of systems, 
+cyber-physical systems, IoT, Cloud, Fog, Edge, Intelligent transportation systems, fintech, 
+digital health, blockchain).
+According to the spirit of the conference, the review process will be aimed at providing 
+comments that could be used by the authors mostly for strengthening the contribution form,
+making them accessible and useful for the broad audience, and increasing the likelihood of 
+generating fruitful discussions. 
 
-
-- Deadline: **May, 31st**
-- Notification: **June, 10th**
-- Submission Formats: extended abstracts must be submitted in PDF format, following
-  the IEEE template available at https://www.ieee.org/conferences/publishing/templates.html, 
-  and must not exceed **three pages** in length, including references.
+- Deadline: **May, 12th**
+- Notification: **May, 15th**
+- Submission Formats: extended abstracts of 1-2 pages
 
 
 Panel and Keynote proposals, Industrial, Outlook 2030, and blue sky contributions and ideas.
@@ -127,24 +120,17 @@ To such a purpose, the following information should be submitted:
 - Name of the venue where it was presented (if applicable)
 - Name of the presenter/proposer/moderator
 - Original (or short) abstract
-- Extended abstract or executive summary of 2-3 pages (including references)
+- Extended abstract or executive summary of 1-2 pages (plus references)
 - Target audience (if applicable)
 
-Authors of accepted extended abstracts will be invited to submit a **6-8 pages full paper** 
-for inclusion in the indexed post-proceedings (TBA), for which copyright will be required. 
-The final collection will serve as a formal reference and will be made available to all participants.
+No copyright will be required, nor an indexed publication will be produced. The collection of extended abstracts will be however made available to the participants as a reference.
 
 
+Contributions should be submitted in electronic format (PDF) through the Google Form available at:
 
-## Submission Form
-
-To be announced.
-
-<!-- Contributions should be submitted in electronic format (PDF) through the Google Form available at: -->
-
-<!-- [submission form](link) -->
-
+[submission form](https://forms.gle/p4mzMrT4r4HWBrkr6)
 
 ## Registration Instructions
 
 To be announced.
+
