@@ -43,7 +43,7 @@ research and experiences.
 
 ## Case Study and Industrial Practice
 
-QualITA 24 launches the Quantitative methods in Industrial practice session in
+QualITA 25 launches the Quantitative methods in Industrial practice session in
 the spirit of highlighting the importance and the impact of quantitative
 information technology in the landscape of research partnerships with
 companies, especially those located in Italy.
@@ -97,7 +97,7 @@ We call for you to participate in this gathering with the key objectives of:
 
 ## Submission Instructions
 
-QualITA 24 accepts contributions covering all aspects of quality, such as monitoring, benchmarking,
+QualITA 25 accepts contributions covering all aspects of quality, such as monitoring, benchmarking,
 measuring, modeling, assessing, capacity planning, workload characterization, operational analysis,
 verification, validation, and testing. Both methodological and practical aspects 
 are taken into account, including any technique 
