@@ -6,7 +6,7 @@ nav: true
 # Open Calls
  
 - [Panel and keynotes](#panel-and-keynotes)   
-- [Open Contributions](#open-contributions-blue-sky-basic-research-free-speech)  
+- [Open Contributions](#5-minute-pitch-presentations-share-your-vision)  
 - [Case Studies](#case-study-and-industrial-practice)
 - [Outlook 2030](#outlook-2030-proposal)
 - [Submission Instructions](#submission-instructions)
@@ -113,13 +113,22 @@ and increasing the likelihood of generating fruitful discussions.
 
 - Deadline: **May, 31st**
 - Notification: **June, 10th**
-- Submission Formats: extended abstracts must be submitted in PDF format, following
-  the IEEE template available at https://www.ieee.org/conferences/publishing/templates.html, 
-  and must not exceed **three pages** in length, including references.
+- Submission Formats: extended abstracts must be in English, submitted in PDF format, following
+  the CEUR-WS template available at the following [link](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART), 
+  and must not exceed **four pages** in length, including references.
 
+Two kinds of submissions are accepted:
+- Original, unpublished contributions to be included in an open-access post-proceeding volume 
+  of CEUR Workshop Proceedings, indexed by both Scopus and DBLP;
+- Already published or preliminary work that will not be included in the post-proceedings volume.
 
-Panel and Keynote proposals, Industrial, Outlook 2030, and blue sky contributions and ideas.
-To such a purpose, the following information should be submitted:
+Authors are requested to clearly indicate whether they would like to have their 
+paper included in the post-proceedings volume.
+
+Submissions are single-blind and indicate the names and affiliations of the authors.
+
+For Panel and Keynote proposals, Industrial, Outlook 2030, and 5-Minute Pitch Presentations,
+the following information should be submitted:
 
 - Title
 - Authors/Panelist/Keynote speakers
@@ -127,12 +136,15 @@ To such a purpose, the following information should be submitted:
 - Name of the venue where it was presented (if applicable)
 - Name of the presenter/proposer/moderator
 - Original (or short) abstract
-- Extended abstract or executive summary of 2-3 pages (including references)
+- Extended abstract or executive summary of maximum 4 pages (including references)
 - Target audience (if applicable)
 
-Authors of accepted extended abstracts will be invited to submit a **6-8 pages full paper** 
-for inclusion in the indexed post-proceedings (TBA), for which copyright will be required. 
-The final collection will serve as a formal reference and will be made available to all participants.
+Authors of accepted extended abstracts will be invited to submit a regular paper of at least 
+**10 pages** for inclusion in the indexed post-proceedings, for which copyright will be required. 
+Proceedings shall be submitted to CEUR-WS.org for online publication.
+Only regular paper will be part of the Proceedings.
+
+
 
 
 
@@ -140,11 +152,10 @@ The final collection will serve as a formal reference and will be made available
 
 To be announced.
 
-<!-- Contributions should be submitted in electronic format (PDF) through the Google Form available at: -->
-
-<!-- [submission form](link) -->
-
 
 ## Registration Instructions
 
-To be announced.
+The Conference attendance is free of charge. We will only invite you to indicate the presenter of 
+the accepted contribution in order to plan and publish the conference program.
+
+Registration link will be available as soon as possible.
