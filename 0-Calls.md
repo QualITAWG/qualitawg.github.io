@@ -150,7 +150,7 @@ Only regular papers will be part of the Proceedings.
 
 ## Submission Form
 
-Submission is available at OperReview:
+Submission is available on OperReview:
 
 https://openreview.net/group?id=QualITA/2025/Conference
 
