@@ -142,7 +142,7 @@ the following information should be submitted:
 Authors of accepted extended abstracts will be invited to submit a regular paper of at least 
 **10 pages** for inclusion in the indexed post-proceedings, for which copyright will be required. 
 Proceedings shall be submitted to CEUR-WS.org for online publication.
-Only regular paper will be part of the Proceedings.
+Only regular papers will be part of the Proceedings.
 
 
 
@@ -150,7 +150,9 @@ Only regular paper will be part of the Proceedings.
 
 ## Submission Form
 
-To be announced.
+Submission is available at OperReview:
+
+https://openreview.net/group?id=QualITA/2025/Conference
 
 
 ## Registration Instructions
