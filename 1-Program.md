@@ -5,10 +5,7 @@ nav: true
 
 # Conference Program
 
-## Day 1 - June 26
-- 09:00 - 12:00 Meeting of the CINI WG on SSQ
-
-## Day 2 - June 27
+## Day 1 - June 25
 - <font color="#666">09:00 - 09:15 Welcoming and Registration</font>
 - 09:15 - 09:30 Opening and Institutional Greetings
 - 09:30 - 10:00 Keynote
@@ -24,6 +21,8 @@ nav: true
 - 16:00 - 17:00	Session 4: Topic to be decided based on the submissions. <!--Artificial Intelligence / Machine Learning -->
 - <font color="#666">17:00 - 17:05 Closing</font>
 
+## Day 2 - June 26
+- 09:00 - 12:00 Meeting of the CINI WG on SSQ
 
 
 # Talks

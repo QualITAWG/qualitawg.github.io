@@ -123,7 +123,9 @@ Two kinds of submissions are accepted:
 - Already published or preliminary work that will not be included in the post-proceedings volume.
 
 Authors are requested to clearly indicate whether they would like to have their 
-paper included in the post-proceedings volume.
+paper included in the post-proceedings volume. 
+For submission to be included in CEUR Workshop Proceedings 
+it must be present at least a PhD holder in the author list.
 
 Submissions are single-blind and indicate the names and affiliations of the authors.
 
@@ -137,7 +139,6 @@ the following information should be submitted:
 - Name of the presenter/proposer/moderator
 - Original (or short) abstract
 - Extended abstract or executive summary of maximum 4 pages (including references)
-- Target audience (if applicable)
 
 Authors of accepted extended abstracts will be invited to submit a regular paper of at least 
 **10 pages** for inclusion in the indexed post-proceedings, for which copyright will be required. 
@@ -153,6 +154,11 @@ Only regular papers will be part of the Proceedings.
 Submission is available on OperReview:
 
 https://openreview.net/group?id=QualITA/2025/Conference
+
+After the submission please fill the Submission form to indicate the contribution type
+and the presenter at the following link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog
 
 
 ## Registration Instructions
