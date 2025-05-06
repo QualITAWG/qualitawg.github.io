@@ -153,12 +153,13 @@ Only regular papers will be part of the Proceedings.
 
 Submission is available on OperReview:
 
-https://openreview.net/group?id=QualITA/2025/Conference
+[https://openreview.net/group?id=QualITA/2025/Conference](https://openreview.net/group?id=QualITA/2025/Conference)
 
 After the submission please fill the Submission form to indicate the contribution type
 and the presenter at the following link:
 
-https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog
+[https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog
+)
 
 
 ## Registration Instructions
