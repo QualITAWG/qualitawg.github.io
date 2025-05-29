@@ -111,10 +111,10 @@ the contribution form, making them accessible and useful for the broad audience,
 and increasing the likelihood of generating fruitful discussions. 
 
 
-- Deadline: **May, 31st**
-- Notification: **June, 10th**
+- Deadline: ~~**May, 31st**~~ **June, 10th**
+- Notification: ~~**June, 10th**~~ **June, 16th**
 - Submission Formats: extended abstracts must be in English, submitted in PDF format, following
-  the CEUR-WS template available at the following [link](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART), 
+  the CEUR-WS single column template available at the following [link](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART), 
   and must not exceed **four pages** in length, including references.
 
 Two kinds of submissions are accepted:

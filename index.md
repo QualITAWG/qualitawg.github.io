@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# The Fourth Conference on System and Service Quality - QualITA, June 25-26, 2025, Catania, Italy.
+# The Fourth Conference on System and Service Quality - QualITA, June 25 and 27, 2025, Catania, Italy.
 
 *Supported by the [CINI WG on SSQ](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality),
 by [University of Messina](https://international.unime.it/),
