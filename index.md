@@ -109,8 +109,7 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 - [Accommodation](https://scs-europe.net/conf/ecms2025/venue/accomodation/)
 
 ## Registration
-- Registration for the QualITA event is free but mandatory, through the following form: 
-  [TBA]()
+- Registration for the QualITA event is free but mandatory, through the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog)
 
 ## Program Committee
 - [Salvatore Distefano](https://archivio.unime.it/it/persona/salvatore-distefano) - University of Messina, Italy
