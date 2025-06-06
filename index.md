@@ -112,7 +112,7 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 - Registration for the QualITA event is free but mandatory, through the following form: 
   [TBA]()
 
-## Organizers
+## Program Committee
 - [Salvatore Distefano](https://archivio.unime.it/it/persona/salvatore-distefano) - University of Messina, Italy
 - [Carmine Colarusso](https://orcid.org/0000-0002-0914-1315) - University of Sannio, Italy
 - [Maurizio Giacobbe](https://orcid.org/0000-0001-6178-7132) - University of Messina, Italy
