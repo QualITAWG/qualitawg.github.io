@@ -18,9 +18,9 @@ are warmly encouraged.
 - <font color="#666">10:00 - 11:25 Coffee break</font>
 - 10:25 - 11:10 Session 1: Metrics
 - 11:10 - 11:55 Session 2: Tools and Frameworks
-- 11:55 - 12:40 Seesion 3: Artificial Intelligence / Machine Learning
-- 12:40 - 12:55	Invited speaker
-- <font color="#666">12:55 - 13:45 Lunch</font>
+- 11:55 - 12:45 Session 3: Artificial Intelligence / Machine Learning
+- 12:45 - 13:00	Invited speaker
+- <font color="#666">13:00 - 13:45 Lunch</font>
 - 13:45 - 14:20	Session 4: Quantum Computing
 - 14:20 - 15:05 Session 5: Cloud and Edge Computing
 - <font color="#666">15:00 - 15:25 Coffee break</font>
