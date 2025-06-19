@@ -21,8 +21,8 @@ are warmly encouraged.
 - 11:55 - 12:40 Seesion 3: Artificial Intelligence / Machine Learning
 - 12:40 - 12:55	Invited speaker
 - <font color="#666">12:55 - 13:45 Lunch</font>
-- 13:45 - 14:45	Session 4: Quantum Computing
-- 14:25 - 15:05 Session 5: Cloud and Edge Computing
+- 13:45 - 14:20	Session 4: Quantum Computing
+- 14:20 - 15:05 Session 5: Cloud and Edge Computing
 - <font color="#666">15:00 - 15:25 Coffee break</font>
 - 15:25 - 16:05	Session 6: Performance Modeling and Dependability
 - <font color="#666">16:00 - 16:05 Closing</font>
