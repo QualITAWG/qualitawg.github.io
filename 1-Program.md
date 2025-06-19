@@ -106,7 +106,12 @@ Max Talanov <span style="font-size:0.8em;color:#666">Institute for Artificial In
 - **A novel chunking-based text-tokenization approach incorporating domain knowledge**\
     Satyajeet Sahoo, <span style="font-size:0.8em;color:#666">Indian Institute of Technology Kharagpur</span>,
     Jhareswar Maiti, <span style="font-size:0.8em;color:#666">Indian Institute of Technology Kharagpur</span>
-
+- **Toward Performance Bug Detection with LLMs: Early Observations and Directions**\
+  Muhammad Imran, <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
+  Vittorio Cortellessa, <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
+  Davide Di Ruscio, <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
+  Riccardo Rubei, <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
+  Luca Traini, <span style="font-size:0.8em;color:#666">University of L'Aquila</span>
 
 
 ## **Session 4: Quantum Computing**
