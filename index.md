@@ -115,7 +115,7 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 
 [//]: # (- [Salvatore Distefano]&#40;https://archivio.unime.it/it/persona/salvatore-distefano&#41; - University of Messina, Italy)
 - [Carmine Colarusso](https://orcid.org/0000-0002-0914-1315) - University of Sannio, Italy
-- [Ida falco](https://orcid.org/0009-0004-9507-1676) - University of Sannio, Italy
+- [Ida Falco](https://orcid.org/0009-0004-9507-1676) - University of Sannio, Italy
 - [Grazyna Suchacka]() - Opole University, Poland
 - [Manuel Mazzara]() - Institute of Software Dev. and Eng., Innopolis, Russia 
 - [Max Talanov]() - Institute for Artificial Intelligence R&D of Serbia, Serbia
@@ -131,7 +131,7 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 [//]:>{% endfor %}
 [//]:></div>
  
-[//]:> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
+[//]:> bhttps://qualitawg.github.io/uilt using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 [//]:>
 [//]:> images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
 [//]:> Last build date: {{ site.time | date: "%Y-%m-%d" }}.
