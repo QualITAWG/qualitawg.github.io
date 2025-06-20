@@ -112,10 +112,16 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 - Registration for the QualITA event is free but mandatory, through the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog)
 
 ## Program Committee
-- [Salvatore Distefano](https://archivio.unime.it/it/persona/salvatore-distefano) - University of Messina, Italy
+
+[//]: # (- [Salvatore Distefano]&#40;https://archivio.unime.it/it/persona/salvatore-distefano&#41; - University of Messina, Italy)
 - [Carmine Colarusso](https://orcid.org/0000-0002-0914-1315) - University of Sannio, Italy
+- [Ida falco](https://orcid.org/0009-0004-9507-1676) - University of Sannio, Italy
+- [Grazyna Suchacka]() - Opole University, Poland
+- [Manuel Mazzara]() - Institute of Software Dev. and Eng., Innopolis, Russia 
+- [Max Talanov]() - Institute for Artificial Intelligence R&D of Serbia, Serbia
 - [Maurizio Giacobbe](https://orcid.org/0000-0001-6178-7132) - University of Messina, Italy
 - [Michele Mastroianni](https://www.unifg.it/it/rubrica/michele-mastroianni) - University of Foggia, Italy
+- [Muhammad Ahmad]() - King Fahd University of Petroleum and Minerals, Saudi Arabia
 	
 
 [//]:><div class="toc" markdown="1">

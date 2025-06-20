@@ -21,10 +21,10 @@ are warmly encouraged.
 - 11:55 - 12:45 Session 3: Artificial Intelligence / Machine Learning
 - 12:45 - 13:00	Invited speaker
 - <font color="#666">13:00 - 13:45 Lunch</font>
-- 13:45 - 14:20	Session 4: Quantum Computing
-- 14:20 - 15:05 Session 5: Cloud and Edge Computing
-- <font color="#666">15:00 - 15:25 Coffee break</font>
-- 15:25 - 16:05	Session 6: Performance Modeling and Dependability
+- 13:45 - 14:30	Session 4: Quantum Computing
+- 14:30 - 15:15 Session 5: Cloud and Edge Computing
+- <font color="#666">15:15 - 15:35 Coffee break</font>
+- 15:35 - 16:15	Session 6: Performance Modeling and Dependability
 - <font color="#666">16:00 - 16:05 Closing</font>
 
 ## Day 2 - June 27
@@ -82,10 +82,7 @@ Max Talanov <span style="font-size:0.8em;color:#666">Institute for Artificial In
 - **Exploiting Formal Semantics and Advanced Computing Paradigms for Scalable Agent-Based Simulation**\
   Marzio Pennisi, <span style="font-size:0.8em;color:#666">University of Eastern Piedmont</span>,
   Giuliana Franceschinis, <span style="font-size:0.8em;color:#666">University of Eastern Piedmont</span>
-- **Teaching scheduling andnrouting algorithms through animations with the JMCH component of JMT**\
-  Marco Gribaudo, <span style="font-size:0.8em;color:#666"> Politecnico di Milano</span>,
-  Giuseppe Serazzi, <span style="font-size:0.8em;color:#666"> Politecnico di Milano</span>,
-  Lorenzo Torri, <span style="font-size:0.8em;color:#666"> Politecnico di Milano</span>
+
 
 ## **Session 3: Artificial Intelligence / Machine Learning**
 - **AI Testing in the Wild: Tools, Strategies, and Challenges from a Grey Literature Review**\
@@ -126,6 +123,10 @@ Max Talanov <span style="font-size:0.8em;color:#666">Institute for Artificial In
 - **Quantity, Quality, and Quantum Perspectives in Data-Driven Cybersecurity**\
   Mansur Ziiatdinov, <span style="font-size:0.8em;color:#666"> University of Messina</span>,
   Salvatore Distefano, <span style="font-size:0.8em;color:#666"> University of Messina</span>
+- **Teaching scheduling andnrouting algorithms through animations with the JMCH component of JMT**\
+  Marco Gribaudo, <span style="font-size:0.8em;color:#666"> Politecnico di Milano</span>,
+  Giuseppe Serazzi, <span style="font-size:0.8em;color:#666"> Politecnico di Milano</span>,
+  Lorenzo Torri, <span style="font-size:0.8em;color:#666"> Politecnico di Milano</span>
 
 ## **Session 5: Cloud and Edge Computing**
 - **Addressing QoS in Kubernetes Pods Autoscaling**\
