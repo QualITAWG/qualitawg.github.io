@@ -4,8 +4,9 @@ nav: true
 ---
 
 # Conference Program
+The conference will be held in Room 75 of the [Monastery of San Nicolò l’Arena](https://www.monasterodeibenedettini.it/en/).
 
-## In Progress
+
 To foster discussion, the exchange of ideas, and future collaboration, each presentation
 in the Sessions will last 5 minutes, followed by an open discussion on the topics presented. 
 This discussion will actively involve the speakers, and audience participation or contributions

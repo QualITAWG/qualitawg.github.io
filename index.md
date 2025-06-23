@@ -118,7 +118,7 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 - [Ida Falco](https://orcid.org/0009-0004-9507-1676) - University of Sannio, Italy
 - [Grazyna Suchacka]() - Opole University, Poland
 - [Manuel Mazzara]() - Institute of Software Dev. and Eng., Innopolis, Russia 
-- [Max Talanov]() - University of Messina, Italy and Institute for Artificial Intelligence R&D of Serbia, Serbia
+- [Max Talanov]() - Institute for Artificial Intelligence R&D of Serbia, Serbia
 - [Maurizio Giacobbe](https://orcid.org/0000-0001-6178-7132) - University of Messina, Italy
 - [Michele Mastroianni](https://www.unifg.it/it/rubrica/michele-mastroianni) - University of Foggia, Italy
 - [Muhammad Ahmad]() - King Fahd University of Petroleum and Minerals, Saudi Arabia
