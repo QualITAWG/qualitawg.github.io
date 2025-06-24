@@ -39,9 +39,9 @@ are warmly encouraged.
 Giovanni Santella, <span style="font-size:0.8em;color:#666">Secretary General AGCOM</span>, 
 Mirko Pellegrino, <span style="font-size:0.8em;color:#666">Officer AGCOM</span>
 
-## Invited Speaker
+## **Invited Speaker**
 **The next generation of SNNs, energy effectiveness and memory optimisation**\
-Max Talanov <span style="font-size:0.8em;color:#666">Institute for Artificial Intelligence R&D of Serbia and  University of Messina</span> 
+Max Talanov <span style="font-size:0.8em;color:#666">Institute for Artificial Intelligence R&D of Serbia</span> 
 
 
 ## **Session 1: Metrics**
