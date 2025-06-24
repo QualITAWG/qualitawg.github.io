@@ -98,7 +98,7 @@ Max Talanov <span style="font-size:0.8em;color:#666">Institute for Artificial In
     Andrea De Lucia, <span style="font-size:0.8em;color:#666"> University of Salerno</span>,
     Gemma Catolino, <span style="font-size:0.8em;color:#666"> University of Salerno</span>,
     Fabio Palomba, <span style="font-size:0.8em;color:#666"> University of Salerno</span>
-- **Towards AI Agent for Selecting Architectural Patterns in Federated Learning Systems**\
+- **Towards AI Agents for Selecting Architectural Patterns in Federated Learning Systems**\
     Ivan Compagnucci, <span style="font-size:0.8em;color:#666"> Gran sasso Science Institute</span>,
     Catia Trubiani, <span style="font-size:0.8em;color:#666"> Gran sasso Science Institute</span>
 - **A novel chunking-based text-tokenization approach incorporating domain knowledge**\
