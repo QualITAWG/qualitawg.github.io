@@ -11,6 +11,7 @@ nav: true
 - [Outlook 2030](#outlook-2030-proposal)
 - [Submission Instructions](#submission-instructions)
 - [Registration Instructions](#registration-instructions)
+- [Post-Proceedings Instructions](#post-proceedings-instructions)
 
 ## Panels and Keynotes
 
