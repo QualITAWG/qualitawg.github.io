@@ -16,7 +16,7 @@ are warmly encouraged.
 - <font color="#666">09:00 - 09:15 Welcoming and Registration</font>
 - 09:15 - 09:30 Opening and Institutional Greetings
 - 09:30 - 10:00 Keynote
-- <font color="#666">10:00 - 11:25 Coffee break</font>
+- <font color="#666">10:00 - 10:25 Coffee break</font>
 - 10:25 - 11:10 Session 1: Metrics
 - 11:10 - 11:55 Session 2: Tools and Frameworks
 - 11:55 - 12:45 Session 3: Artificial Intelligence / Machine Learning
@@ -41,7 +41,7 @@ Mirko Pellegrino, <span style="font-size:0.8em;color:#666">Officer AGCOM</span>
 
 ## **Invited Speaker**
 **The next generation of SNNs, energy effectiveness and memory optimisation**\
-Max Talanov <span style="font-size:0.8em;color:#666">Institute for Artificial Intelligence R&D of Serbia</span> 
+Max Talanov, <span style="font-size:0.8em;color:#666">Institute for Artificial Intelligence R&D of Serbia</span> 
 
 
 ## **Session 1: Metrics**

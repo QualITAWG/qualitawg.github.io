@@ -168,3 +168,45 @@ The Conference attendance is free of charge. We will only invite you to indicate
 the accepted contribution in order to plan and publish the conference program.
 
 Registration link will be available as soon as possible.
+
+
+## Post-Proceedings instructions
+
+Below are the instructions for preparing the final version of the authors contributions who have
+submitted an original work and who want to be part of the post-proceedings of QualITA 2025.
+
+The updated version of the paper must be uploaded by accessing your submission on the OpenReview
+system and selecting the option to upload a revision of your work. Follow instruction below:
+- Go to your submitted work page on OpenReview 
+- Edit button 
+- Select Revision
+- Fill information and attach the updated .pdf file
+
+The author agreement (see instruction below) must be uploaded via this [link](https://forms.gle/7UYyM1quL42eq699A)
+
+The deadline for uploading the final version of the contributions is **July 27, 2025**.
+
+Before submit your final manuscript version, please check this author checklist:
+
+- Please ensure that the contribution follows the CEUR-WS "regular paper" **single-column** format, with a length of at least 10 pages. 
+  Template [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)
+- Make sure that the correct name of the conference is stated on the first page of the paper:
+"QualITA 2025: The Fourth Conference on System and Service Quality, June 25 and 27, 2025, Catania, Italy"
+- Make sure that the correct license is included: "Creative Commons License Attribution 4.0 International (CC BY 4.0)."
+- Include the full name of each author in the article (e.g., "Maria Rossi", NOT "M. Rossi"), along with their affiliation including institution and country.
+- To complete the submission, one author (on behalf of all co-authors) must manually fill out and sign the AUTHOR AGREEMENT form.
+Please note that inserting an image of a signature is not allowed, the document must be signed by hand on paper and then scanned. 
+There are two different forms, depending on whether you have used GenAI tools or included third-party copyrighted material:
+
+  - [AUTHOR-AGREEMENT (NTP)](https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2025-06-10): Authors shall use this form
+  if they included no copyrighted third party material in their paper text 
+  (or accompanying sources, datasets), and no material in the paper was produced with the help of Generative Artificial Intelligence 
+  tools including tools based on large language models (LLM). This is the right variant in most cases.
+  - [AUTHOR-AGREEMENT (TP)](https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2025-06-10): Authors shall use this form if they
+  did include copyrighted third party material in their paper 
+  or accompanying material. They must then also attach a copy of the permission by the third party to use this material 
+  in the signed author agreement! Authors shall use this form if they did include copyrighted third party material in their 
+  paper or in accompanying material. Authors must append a copy of the permission(s) by the third parties to use this material 
+  to the signed author agreement!
+ 
+For further details, please refer to CEUR-WS official [guidelines](https://ceur-ws.org/HOWTOSUBMIT.html#PRECONDS).
