@@ -209,5 +209,7 @@ There are two different forms, depending on whether you have used GenAI tools or
   in the signed author agreement! Authors shall use this form if they did include copyrighted third party material in their 
   paper or in accompanying material. Authors must append a copy of the permission(s) by the third parties to use this material 
   to the signed author agreement!
+- When you fill out the author agreement, please enter the following under 'Editors of the proceedings (editors)':
+  - Carmine Colarusso, Ida Falco, Grazyna Suchacka, Manuel Mazzara, Max Talanov, Maurizio Giacobbe, Michele Mastroianni, Muhammad Ahmad
  
 For further details, please refer to CEUR-WS official [guidelines](https://ceur-ws.org/HOWTOSUBMIT.html#PRECONDS).
