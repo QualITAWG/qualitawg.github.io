@@ -4,10 +4,10 @@ nav: true
 ---
 
 # Conference Program
-The conference will be held in Room 75 of the [Monastery of San Nicolò l’Arena](https://www.monasterodeibenedettini.it/en/).
+The conference will be held at [Innovation Center](https://innovationcenterfirenze.it/en/).
 
-
-To foster discussion, the exchange of ideas, and future collaboration, each presentation
+The program is not available yet.
+<!-- To foster discussion, the exchange of ideas, and future collaboration, each presentation
 in the Sessions will last 5 minutes, followed by an open discussion on the topics presented. 
 This discussion will actively involve the speakers, and audience participation or contributions
 are warmly encouraged.
@@ -167,4 +167,4 @@ Max Talanov, <span style="font-size:0.8em;color:#666">Institute for Artificial I
 - **Symbolic structural techniques improving the analysis of Stochastic Symmetric Nets**\
   Lorenzo Capra, <span style="font-size:0.8em;color:#666"> Università degli Studi di Milano</span>, 
   Massimiliano De Pierro, <span style="font-size:0.8em;color:#666"> Università degli Studi di Torino</span>,
-  Giuliana Franceschinis, <span style="font-size:0.8em;color:#666"> Università del Piemonte Orientale</span>
+  Giuliana Franceschinis, <span style="font-size:0.8em;color:#666"> Università del Piemonte Orientale</span> -->

@@ -98,7 +98,7 @@ We call for you to participate in this gathering with the key objectives of:
 
 ## Submission Instructions
 
-QualITA 25 accepts contributions covering all aspects of quality, such as monitoring, benchmarking,
+QualITA 26 accepts contributions covering all aspects of quality, such as monitoring, benchmarking,
 measuring, modeling, assessing, capacity planning, workload characterization, operational analysis,
 verification, validation, and testing. Both methodological and practical aspects 
 are taken into account, including any technique 
@@ -112,8 +112,9 @@ the contribution form, making them accessible and useful for the broad audience,
 and increasing the likelihood of generating fruitful discussions. 
 
 
-- Deadline: ~~**May, 31st**~~ **June, 10th**
-- Notification: ~~**June, 10th**~~ **June, 16th**
+- Deadline: **April, 1st**
+- Notification: **April, 18th**
+- Camera Ready: **March 4th**
 - Submission Formats: extended abstracts must be in English, submitted in PDF format, following
   the CEUR-WS single column template available at the following [link](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART), 
   and must not exceed **four pages** in length, including references.
@@ -151,16 +152,15 @@ Only regular papers will be part of the Proceedings.
 
 
 ## Submission Form
-
-Submission is available on OperReview:
+Submissions will be handled using OpenReview.
+<!-- Submission is available on OperReview:
 
 [https://openreview.net/group?id=QualITA/2025/Conference](https://openreview.net/group?id=QualITA/2025/Conference)
 
 After the submission please fill the Submission form to indicate the contribution type
 and the presenter at the following link:
 
-[https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog
-)
+[https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog) -->
 
 
 ## Registration Instructions
@@ -174,7 +174,7 @@ Registration link will be available as soon as possible.
 ## Post-Proceedings instructions
 
 Below are the instructions for preparing the final version of the authors contributions who have
-submitted an original work and who want to be part of the post-proceedings of QualITA 2025.
+submitted an original work and who want to be part of the post-proceedings of QualITA 2026.
 
 The updated version of the paper must be uploaded by accessing your submission on the OpenReview
 system and selecting the option to upload a revision of your work. Follow instruction below:
