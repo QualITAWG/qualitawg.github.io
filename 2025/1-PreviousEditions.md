@@ -1,6 +1,6 @@
 ---
 title: Previous Editions
-nav: true
+nav: false
 ---
 
 # Previous Editions

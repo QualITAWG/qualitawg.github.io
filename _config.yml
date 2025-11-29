@@ -10,12 +10,12 @@
 # title appears in the header
 title: QualITA
 # description and keywords for meta tags
-description: "Conference on System and Service Quality - QualIta 2025"
+description: "Conference on System and Service Quality - QualIta 2026"
 keywords: "System,Service,Quality,Software"
 
 # author settings for cc-by, appears in the footer
 author: CINI WG on SSQ
-pub_year: 2025
+pub_year: 2026
 github_username: QualITAWG/qualitawg.github.io
 
 # add the full url for the github repository
@@ -27,7 +27,7 @@ repo: "https://github.com/QualITAWG/qualitawg.github.io"
 url: https://qualitawg.github.io/
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /
+baseurl: /2026
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored

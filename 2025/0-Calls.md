@@ -1,6 +1,6 @@
 ---
 title: Calls
-nav: true
+nav: false
 ---
 
 # Open Calls
