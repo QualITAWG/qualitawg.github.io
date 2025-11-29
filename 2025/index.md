@@ -2,11 +2,13 @@
 title: Home
 ---
 
-# The Fifth Conference on System and Service Quality - QualITA, May 4-8, 2026, Florence, Italy.
+# The Fourth Conference on System and Service Quality - QualITA, June 25 and 27, 2025, Catania, Italy.
 
 *Supported by the [CINI WG on SSQ](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality),
-by [University of Salerno](https://web.unisa.it/en/university), by [University of Pavia](https://portale.unipv.it/en), and by [University of Eastern Piedmont](https://www.uniupo.it/en).
-Hosted within the 17th ACM/SPEC International Conference on Performance Engineering, [ICPE26](https://icpe2026.spec.org/),in Florence, Italy at the [Innovation Center](https://innovationcenterfirenze.it/en/).*
+by [University of Messina](https://international.unime.it/),
+and by [University of Catania](https://www.unict.it/en).
+Hosted within the 39th International Conference on Modelling and Simulation, [ECMS25](https://scs-europe.net/conf/ecms2025/), 
+in Catania, Sicily, Italy at the [Monastery of San Nicolò l’Arena](https://www.monasterodeibenedettini.it/en/).*
 
 
 {% include figure.html img="SSQ_logo.png" alt="SSQ Logo" caption="" width="50%" %}
@@ -14,7 +16,7 @@ Hosted within the 17th ACM/SPEC International Conference on Performance Engineer
 ## Overview
 
 <p style='text-align: justify;'>
-The fifth Italian Conference on System and Service Quality (QualITA 2026) 
+The fourth Italian Conference on System and Service Quality (QualITA 2025) 
 is the annual event of the <a href="https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality">
 CINI System and Service Quality Working Group</a>. 
 Its main goal is to put together Italian researchers, 
@@ -26,7 +28,7 @@ selected keynote speeches and some panels on related topics.
 </p>
 	
 <p style='text-align: justify;'>
-QualITA 2026 aims to highlight quality aspects, considering the complex,
+QualITA 2025 (QI25) aims to highlight quality aspects, considering the complex,
 heterogeneous, multidisciplinary environment in which modern computing systems operate, 
 together with their application domains, characterized by an increasing demand of resilient 
 and sustainable solutions that should also meet efficiency as well as time-constrained requirements. 
