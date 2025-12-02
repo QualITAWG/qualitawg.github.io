@@ -41,7 +41,7 @@ productivity, the focus switches from functional to non-functional aspects, from
 to qualities and policies for their enforcement, and from a proof of concept or prototype 
 to a product or service. Therefore, techniques and tools to deal with quality aspects 
 in the design, implementation, and assessment of computing systems become essential to 
-support such process. QI25 will explore methodological and practical aspects of qualities, 
+support such process. QualITA26 will explore methodological and practical aspects of qualities, 
 ranging from modelling and design techniques to evaluation tools and case studies. 
 It will also investigate related domains such as cloud, edge, IoT, intelligent systems, 
 cyber-physical systems, high-performance computing, blockchain, and similar.
@@ -86,17 +86,13 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
    - New metrics for edge and hybrid environments
    - QoS/QoE metrics for end-user experience
    - Security and resilience quantification
-   - Benchmarking metrics for AI/ML workloads
-   - Multi-objective performance indicators
-   - Data metrics (Vs, agility, features, ...)
-   - AI metrics (accuracy, ..., fairness, sustainability explainability)
-   - NLP MM metrics
+   - AI metrics (fairness, sustainability), AI/ML workloads metrics, NLP MM metrics
    - Bioinformatic metrics
 
 ## Call for Contributions
 
 - [List of open calls](0-Calls.html)
-- [Submission Instructions](0-Calls.html#submission-instructions)
+- [Submission](0-Calls.html#submission-format)
 
 ## Program
 
@@ -104,10 +100,10 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 
 ## Venue and travel information
 
-- [Accommodation](https://scs-europe.net/conf/ecms2025/venue/accomodation/)
+- [Accommodation](https://icpe2026.spec.org/venue/)
 
 ## Registration
-- Registration for the QualITA event is free but mandatory, through the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfYeJ18SVDAk9eyKRYNWsAfUJymECCd61fJ2AcN9L53Y5R9jw/viewform?usp=dialog)
+- Registration for the QualITA event will be available soon.
 
 ## Organizing Committee
 
@@ -119,16 +115,6 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 ## Program Committee
 
 The Program Committee will be made available as soon as possible.
-
-<!-- - [Carmine Colarusso](https://orcid.org/0000-0002-0914-1315) - University of Sannio, Italy
-- [Ida Falco](https://orcid.org/0009-0004-9507-1676) - University of Sannio, Italy
-- [Grazyna Suchacka]() - Opole University, Poland
-- [Manuel Mazzara]() - Institute of Software Dev. and Eng., Innopolis, Russia 
-- [Max Talanov]() - Institute for Artificial Intelligence R&D of Serbia, Serbia
-- [Maurizio Giacobbe](https://orcid.org/0000-0001-6178-7132) - University of Messina, Italy
-- [Michele Mastroianni](https://www.unifg.it/it/rubrica/michele-mastroianni) - University of Foggia, Italy
-- [Muhammad Ahmad]() - King Fahd University of Petroleum and Minerals, Saudi Arabia -->
-	
 
 [//]:><div class="toc" markdown="1">
 [//]:>## Contents:
