@@ -6,7 +6,7 @@ title: Home
 
 *Supported by the [CINI WG on SSQ](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality),
 by [University of Salerno](https://web.unisa.it/en/university), by [University of Pavia](https://portale.unipv.it/en), and by [University of Eastern Piedmont](https://www.uniupo.it/en).
-Hosted within the 17th ACM/SPEC International Conference on Performance Engineering, [ICPE26](https://icpe2026.spec.org/),in Florence, Italy at the [Innovation Center](https://innovationcenterfirenze.it/en/).*
+Hosted within the 17th ACM/SPEC International Conference on Performance Engineering, [ICPE26](https://icpe2026.spec.org/), in Florence, Italy at the [Innovation Center](https://innovationcenterfirenze.it/en/).*
 
 
 {% include figure.html img="SSQ_logo.png" alt="SSQ Logo" caption="" width="50%" %}
@@ -18,7 +18,7 @@ The fifth Italian Conference on System and Service Quality (QualITA 2026)
 is the annual event of the <a href="https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality">
 CINI System and Service Quality Working Group</a>. 
 Its main goal is to put together Italian researchers, 
-practitioners and professionals from academia, industry and public administration
+practitioners and professionals from academia, industry, and public administration
 interested in qualities of computing systems such as performance, dependability, 
 trustworthiness, efficiency, resilience, sustainability, and others. 
 The conference will be structured into different research tracks, 
@@ -26,10 +26,7 @@ selected keynote speeches and some panels on related topics.
 </p>
 	
 <p style='text-align: justify;'>
-QualITA 2026 aims to highlight quality aspects, considering the complex,
-heterogeneous, multidisciplinary environment in which modern computing systems operate, 
-together with their application domains, characterized by an increasing demand of resilient 
-and sustainable solutions that should also meet efficiency as well as time-constrained requirements. 
+QualITA 2026 aims to highlight quality aspects, considering the complex, heterogeneous, and multidisciplinary environment in which modern computing systems operate, along with their application domains, which are characterized by an increasing demand for resilient and sustainable solutions that meet efficiency and time-constrained requirements. 
 </p>
 
 ### Topics

@@ -18,31 +18,31 @@ nav: true
 - [Important Dates](#important-dates)
 
 ## Panels and Keynotes
-QualITA panel track is meant to be a unique academic and industrial forum to discuss different viewpoints concerning gaps and challenges to be addressed by the CINI WG on System and Service Quality community. QualITA panels are 15-minutes talks that are planned to be delivered in a session of 30 minutes or 1 hour. This Panels and Keynotes call for contributions offers an opportunity for researchers and practitioners who wish to further explore or expand upon their work in a broader and more interactive setting. The format is designed to increase visibility for presenters while providing dedicated space to highlight emerging topics, foster discussion, and stimulate new lines of inquiry within the community.
+QualITA panel track is meant to be a unique academic and industrial forum to discuss different viewpoints on gaps and challenges to be addressed by the CINI WG on System and Service Quality community. QualITA panels are 15-minute talks that are planned to be delivered in a session of 30 minutes or 1 hour. This Panels and Keynotes call for contributions offers an opportunity for researchers and practitioners who wish to further explore or expand their work in a broader, more interactive setting. The format is designed to increase presenters' visibility while providing a dedicated space to highlight emerging topics, foster discussion, and stimulate new lines of inquiry within the community.
 
 ## Consolidated Works and Mature Results
 The QualITA track on Consolidated Works and Mature Results provides a venue for authors who wish to present solid, well-established research outcomes that have reached a high level of maturity. This track welcomes contributions that synthesize, extend, or reflect upon previously published work, as well as studies that offer comprehensive analyses, validated methodologies, or refined results derived from extensive experimentation or long-term projects. The goal is to provide a venue for showcasing consolidated knowledge, enabling the community to learn from robust findings, appreciate the evolution of ongoing research lines, and foster discussions on the impact, lessons learned, and future directions emerging from mature contributions.
 
 
 ## Emerging Ideas, Early Results, Feedback & Collaboration
-QualITA26 welcomes submissions dedicated to researchers and practitioners who wish to share novel ideas, preliminary findings, or ongoing work that can benefit from early visibility within the community. This track welcomes contributions that present innovative directions, exploratory research, or open problems where feedback from peers can significantly strengthen the next stages of development. It also serves as a space to propose collaborative initiatives, seek partners for future studies, or open discussions around emerging challenges and opportunities. The goal is to foster an open, constructive, and forward-looking environment in which early-stage research can grow, mature, and connect with potential collaborators across academia and industry.
+QualITA26 welcomes submissions from researchers and practitioners who wish to share novel ideas, preliminary findings, or ongoing work that could benefit from early visibility within the community. This track welcomes contributions that present innovative directions, exploratory research, or open problems where peer feedback can significantly strengthen the next stages of development. It also serves as a space to propose collaborative initiatives, seek partners for future studies, or open discussions around emerging challenges and opportunities. The goal is to foster an open, constructive, and forward-looking environment in which early-stage research can grow, mature, and connect with potential collaborators across academia and industry.
 
 
 
 ## Submission Format
 
-QualITA26 submissions are single-blind and should use the official [ACM Primary Article Template](https://www.acm.org/publications/proceedings-template) of the companion conference, ICPE.
-More specifically, the double column formats have to be used for all paper submissions.
+QualITA26 submissions are single-anonymized and should use the official [ACM Primary Article Template](https://www.acm.org/publications/proceedings-template) of the companion conference, ICPE.
+More specifically, the double-column format must be used for all paper submissions.
 
 All submissions must stay within the maximum length for workshop papers: up to 10 pages, including references.
 - Full paper: up to 10 pages, including references.
-- Short papar: 5 pages and under, plus references.
+- Short paper: 5 pages and under, plus references.
 
 ## Submission System
-Submissions need to be uploaded to the submission system on HotCRP (the submission links will be added soon).
+Submissions need to be uploaded to the HotCRP submission system (submission links will be added soon).
 
 ## Proceedings
-All papers submitted to "Consolidated Works and Mature Results" track will be published in the ICPE 2026 conference proceedings that will be published by ACM and included in the ACM Digital Library. 
+All papers submitted to the "Consolidated Works and Mature Results" track will be published in the ICPE 2026 conference proceedings, published by ACM, and included in the ACM Digital Library. 
 Emerging Ideas, Early Results, Feedback & Collaboration will not be included in the proceedings.
 
 ## Open Access Publishing
