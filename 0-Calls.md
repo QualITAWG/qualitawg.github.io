@@ -68,4 +68,4 @@ Registration link will be available soon.
 ## Important Dates
 - Deadline: **January 23, 2026 (AoE)**
 - Notification: **February 27, 2026 (AoE)**
-- Camera Ready: **March 5, 2026 (firm)**
+- Camera Ready: **March 4, 2026 (AoE)**
