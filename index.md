@@ -111,7 +111,13 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 
 ## Program Committee
 
-The Program Committee will be made available as soon as possible.
+- [Indika Kumara](https://orcid.org/0000-0003-4355-0494) - Tilburg University - Netherlands
+- [Luana Martins](https://orcid.org/0000-0001-6340-7615) - University of Salerno - Italy
+- [Belen Bermejo](https://orcid.org/0000-0002-9283-2378) - University of the Balearic Islands, Spain
+- [Luca Caviglione](https://orcid.org/0000-0001-6466-3354) - CNR Genova - Italy
+- [Gabriele Kotsis](https://orcid.org/0000-0002-4185-2942) - Johannes Kepler University Linz - Austria
+
+The rest of the Program Committee will be made available as soon as possible.
 
 [//]:><div class="toc" markdown="1">
 [//]:>## Contents:
