@@ -117,7 +117,9 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 - [Luca Caviglione](https://orcid.org/0000-0001-6466-3354) - CNR-IMATI, Italy
 - [Gabriele Kotsis](https://orcid.org/0000-0002-4185-2942) - Johannes Kepler University Linz, Austria
 - [Salvatore Distefano](https://orcid.org/0000-0002-2752-626X) - University of Messina, Italy
-
+- [Maurizio	Giacobbe](https://orcid.org/0000-0001-6178-7132) - University of Messina, Italy
+- [Ida Falco](https://orcid.org/0009-0004-9507-1676) - University of Sannio, Italy
+- [Carmine Colarusso](https://orcid.org/0000-0002-0914-1315) - University of Sannio, Italy
 
 [//]:><div class="toc" markdown="1">
 [//]:>## Contents:
