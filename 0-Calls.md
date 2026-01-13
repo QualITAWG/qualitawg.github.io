@@ -39,7 +39,7 @@ All submissions must stay within the maximum length for workshop papers: up to 1
 
 ## Submission System
 Submissions need to be uploaded to the HotCRP submission system.
-Submit here: https://qualita26.hotcrp.com/
+Submit here: [https://qualita26.hotcrp.com/](https://qualita26.hotcrp.com/)
 
 ## Proceedings
 All papers accepted to the "Consolidated Works and Mature Results" track will be published in the ICPE 2026 conference proceedings, published by ACM, and included in the ACM Digital Library. 
@@ -48,7 +48,7 @@ Emerging Ideas, Early Results, Feedback & Collaboration will not be included in 
 ## Open Access Publishing
 Starting 2026, all articles published by ACM – including all papers published in the ICPE 2026 proceedings – will be made Open Access (freely available on the public internet). This is greatly beneficial to the advancement of computer science and leads to increased usage and citation of research.
 
-For further information see: https://icpe2026.spec.org/call-for-contributions/
+For further information see: [https://icpe2026.spec.org/call-for-contributions/](https://icpe2026.spec.org/call-for-contributions/)
 
 <!-- However, this may involve the payment of Article Processing Charges (APC) by the authors of ICPE 2026 accepted papers, , subject to the following rules:
 
