@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# The Fifth Conference on System and Service Quality - QualITA, May 4-8, 2026, Florence, Italy.
+# The Fifth Conference on System and Service Quality - QualITA, May 5, 2026, Florence, Italy.
 
 *Supported by the [CINI WG on SSQ](https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality),
 by [University of Salerno](https://web.unisa.it/en/university), by [University of Pavia](https://portale.unipv.it/en), and by [University of Eastern Piedmont](https://www.uniupo.it/en).
