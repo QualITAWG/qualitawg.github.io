@@ -64,6 +64,6 @@ This fee is payable when the camera-ready version of the accepted paper is uploa
 Registration link will be available soon.
 
 ## Important Dates
-- Deadline: **January 23, 2026 (AoE)**
-- Notification: **February 27, 2026 (AoE)**
-- Camera Ready: **March 4, 2026 (AoE)**
+- Deadline: **February 10, 2026 AoE (firm)**
+- Notification: **February 27, 2026 AoE**
+- Camera Ready: **March 4, 2026 AoE**
