@@ -99,8 +99,8 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 
 - [Accommodation](https://icpe2026.spec.org/venue/)
 
-## Registration
-- Registration for the QualITA event will be available soon.
+<!-- ## Registration
+- Registration for the QualITA event will be available soon. -->
 
 ## Organizing Committee
 
