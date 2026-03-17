@@ -5,8 +5,10 @@ nav: true
 
 # Open Calls
  
-- ~~[Panel and keynotes]~~(#panel-and-keynotes)   
-- ~~[Consolidated Works and Mature Results]~~(#consolidated-work)  
+- ~~[Panel and keynotes]~~
+<!-- (#panel-and-keynotes)    -->
+- ~~[Consolidated Works and Mature Results]~~
+<!-- (#consolidated-work)   -->
 - [Emerging Ideas, Early Results, Feedback & Collaboration](#emerging-ideas-early-results-feedback--collaboration)
 
 ## Submission, Registration and Proceedings
