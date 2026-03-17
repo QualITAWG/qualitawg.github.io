@@ -5,8 +5,8 @@ nav: true
 
 # Open Calls
  
-- ~~[Panel and keynotes](#panel-and-keynotes)   ~~
-- ~~[Consolidated Works and Mature Results](#consolidated-work)  ~~
+- ~~[Panel and keynotes]~~(#panel-and-keynotes)   
+- ~~[Consolidated Works and Mature Results]~~(#consolidated-work)  
 - [Emerging Ideas, Early Results, Feedback & Collaboration](#emerging-ideas-early-results-feedback--collaboration)
 
 ## Submission, Registration and Proceedings
@@ -35,8 +35,8 @@ All submissions must stay within the maximum length for workshop papers: up to 1
 - Short paper: 5 pages total, no extra pages.
 
 ## Submission System
-Submissions need to be uploaded to the HotCRP submission system.
-[https://forms.gle/pgzzEPrqomHGSt9cA](Submit here).
+Submissions need to be uploaded to the following Google form.
+[Submit here](https://forms.gle/pgzzEPrqomHGSt9cA).
 
 ## Proceedings
 <!-- All papers accepted to the "Consolidated Works and Mature Results" track will be published in the ICPE 2026 conference proceedings, published by ACM, and included in the ACM Digital Library.  -->
