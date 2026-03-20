@@ -104,24 +104,27 @@ cyber-physical systems, high-performance computing, blockchain, and similar.
 
 ## Organizing Committee
 
-- [Gerardo Iuliano](https://orcid.org/0009-0006-1128-0863) - University of Salerno, Italy
-- [Luisa Massari](https://orcid.org/0000-0002-3924-8316) - University of Pavia, Italy
-- [Marzio Alfio Pennisi](https://orcid.org/0000-0003-0231-7653) - University of Eastern Piedmont, Italy
+- [Gerardo Iuliano](https://orcid.org/0009-0006-1128-0863) - University of Salerno, IT
+- [Luisa Massari](https://orcid.org/0000-0002-3924-8316) - University of Pavia, IT
+- [Marzio Alfio Pennisi](https://orcid.org/0000-0003-0231-7653) - University of Eastern Piedmont, IT
 
 
 ## Program Committee
+- [Gerardo Iuliano](https://orcid.org/0009-0006-1128-0863) - University of Salerno, IT
+- [Luisa Massari](https://orcid.org/0000-0002-3924-8316) - University of Pavia, IT
+- [Marzio Alfio Pennisi](https://orcid.org/0000-0003-0231-7653) - University of Eastern Piedmont, IT
+- [Indika Weerasingha Dewage](https://orcid.org/0000-0003-4355-0494) - Tilburg University, NL
+- [Luana Almeida Martins](https://orcid.org/0000-0001-6340-7615) - University of Salerno, IT
+- [Belen Bermejo](https://orcid.org/0000-0002-9283-2378) - University of the Balearic Islands, ES
+- [Luca Caviglione](https://orcid.org/0000-0001-6466-3354) - CNR-IMATI, IT
+- [Gabriele Kotsis](https://orcid.org/0000-0002-4185-2942) - Johannes Kepler University Linz, AT
+- [Salvatore Distefano](https://orcid.org/0000-0002-2752-626X) - University of Messina, IT
+- [Maurizio	Giacobbe](https://orcid.org/0000-0001-6178-7132) - University of Messina, IT
+- [Ida Falco](https://orcid.org/0009-0004-9507-1676) - University of Sannio, IT
+- [Carmine Colarusso](https://orcid.org/0000-0002-0914-1315) - University of Sannio, IT
+- [Michele Mastroianni](https://orcid.org/0000-0001-6415-1180) - University of Foggia, IT
+- [Davide Savarro](https://orcid.org/0009-0002-7247-0346) - University of Eastern Piedmont, IT
 
-- [Indika Kumara](https://orcid.org/0000-0003-4355-0494) - Tilburg University, Netherlands
-- [Luana Martins](https://orcid.org/0000-0001-6340-7615) - University of Salerno, Italy
-- [Belen Bermejo](https://orcid.org/0000-0002-9283-2378) - University of the Balearic Islands, Spain
-- [Luca Caviglione](https://orcid.org/0000-0001-6466-3354) - CNR-IMATI, Italy
-- [Gabriele Kotsis](https://orcid.org/0000-0002-4185-2942) - Johannes Kepler University Linz, Austria
-- [Salvatore Distefano](https://orcid.org/0000-0002-2752-626X) - University of Messina, Italy
-- [Maurizio	Giacobbe](https://orcid.org/0000-0001-6178-7132) - University of Messina, Italy
-- [Ida Falco](https://orcid.org/0009-0004-9507-1676) - University of Sannio, Italy
-- [Carmine Colarusso](https://orcid.org/0000-0002-0914-1315) - University of Sannio, Italy
-- [Michele Mastroianni](https://orcid.org/0000-0001-6415-1180) - University of Foggia, Italy
-- [Davide Savarro](https://orcid.org/0009-0002-7247-0346) - University of Eastern Piedmont, Italy
 
 [//]:><div class="toc" markdown="1">
 [//]:>## Contents:
