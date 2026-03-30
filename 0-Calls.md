@@ -70,4 +70,4 @@ Registration link will be available soon.
 - ~~Notification: **February 27, 2026 AoE**~~
 - ~~Camera Ready: **March 4, 2026 AoE**~~
 
-- Extended Deadline for Emerging Ideas, Early Results, Feedback & Collaboration: **March 27, 2026 AoE (firm)**
+- Extended Deadline for Emerging Ideas, Early Results, Feedback & Collaboration: **April 17, 2026 AoE (hard-deadline)**
