@@ -6,4 +6,133 @@ nav: true
 # Conference Program
 The conference will be held at [Innovation Center](https://innovationcenterfirenze.it/en/).
 
-The program is not available yet.
+## May 5
+
+- <font color="#666">09:00 - 09:15 QualITA 2026 Introduction</font>
+- 09:15 - 10:00 Keynote: We Optimized the Models and Broke the Community: Social Awareness as a Missing Requirement in ML-Enabled Software Engineering
+- 10:00 - 10:15 Short Paper: Quality assessment and privacy/performance trade-off in information systems
+- 10:15 - 10:30 Short Paper: Compositional coordinated resource provisioning for workflows with stochastic durations in Kubernetes
+- <font color="#666">10:30 - 11:00 Coffee Break</font>
+- 11:00 - 11:20 Full Paper: Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads
+- 11:20 - 11:40 Full Paper: Principles Over Preferences: Quality-Aware Metric Selection for Machine Learning Systems
+- 11:40 - 12:00 Full Paper: ShapBPT in Perspective: A Consolidated Review and an eXplainable Anomaly Detection Case Study
+- 12:00 - 12:20 Full Paper: Predicted In-Sync Digital Twin for fast decision making
+- <font color="#666">12:30 - 14:00 Lunch Break</font>
+- 14:00 - 14:15 Short Paper: Software Rejuvenation for Resilient, Secure, and Dependable Cyber-Physical UAV Systems
+- 14:15 - 14:30 Short Paper: Decoupling Complexity from Population Size: A Macro-Agent Architecture for Scalable Stochastic Simulations
+- 14:30 - 14:45 Short Paper: Auto-scaling in Scenarios with Heterogeneous Cloud Resources
+- 14:45 - 15:00 Emerging Idea: SMASH: a Non-Preemptive Window-Based Scheduler for Multiserver Jobs
+- 15:00 - 15:15 Emerging Idea: Ask, Then Think: Enhancing LLM Performance with Socratic Reasoning
+- 15:15 - 15:30 Emerging Idea: Towards Prompt Engineering Language: A Formal Hierarchical Representation for LLM Prompts
+- <font color="#666">15:30 - 16:00 Coffee Break</font>
+- 16:00 - 16:15 Emerging Idea: Workload Optimization using Learning and Fitness
+- 16:15 - 16:30 Emerging Idea: Enhancing Time Series-based Software Runtime Analysis via Meta-Learning
+- 16:30 - 16:45 Emerging Idea: An AI-supported Architecture for Trusted Cyber Threat Intelligence in Industrial IoT systems
+
+
+
+# Talks
+
+## **Keynote**
+**We Optimized the Models and Broke the Community: Social Awareness as a Missing Requirement in ML-Enabled Software Engineering**
+G. Catolino, <span style="font-size:0.8em;color:#666">University of Salerno</span>, 
+
+## **Papers**
+
+- **Quality assessment and privacy/performance trade-off in information systems**\
+    M. Iacono, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    Y. Levit, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    M. Mastroianni, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    C. Riccio, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    B. Viscardi, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Compositional coordinated resource provisioning for workflows with stochastic durations in Kubernetes**\
+    T. Botarelli, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    L. Carnevali, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    L. Scommegna, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    E. Vicario, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads**\
+    D. Scheinert, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    A. Acker, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    T. Wittkopp, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    S. Becker, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    H. Yous, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    K. Reddy, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    I. Farhat, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    H. Hacid, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    O. Kao, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Principles Over Preferences: Quality-Aware Metric Selection for Machine Learning Systems**\
+    D. Grillmeyer, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    V. Jahn, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    M. Hadry, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    V. Lesch, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    S. Kounev, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **ShapBPT in Perspective: A Consolidated Review and an eXplainable Anomaly Detection Case Study**\
+    E. Amparore, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    M. Rashid, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    E. Ferrari, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    D. Verda, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Predicted In-Sync Digital Twin for fast decision making**\
+    C. Colarusso, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    I. Falco, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    L. Goglia, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    P. Perugini, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    E. Zimeo, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Software Rejuvenation for Resilient, Secure, and Dependable Cyber-Physical UAV Systems**\
+    M. Giacobbe, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    M. Scarpa, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    S. Distefano, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Decoupling Complexity from Population Size: A Macro-Agent Architecture for Scalable Stochastic Simulations**\
+    M. Pennisi, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    G. Franceschinis, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Auto-scaling in Scenarios with Heterogeneous Cloud Resources**\
+    L. Zanussi, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    D. Tessera, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    L. Massari, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    B. Bermejo, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    C. Juiz, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    M. Calzarossa, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **SMASH: a Non-Preemptive Window-Based Scheduler for Multiserver Jobs**\
+    D. Olliaro, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    S. Rossi, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    A. Anggraito, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    A. Marin, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    M. Marsan, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Ask, Then Think: Enhancing LLM Performance with Socratic Reasoning**\
+    A. Della Porta, <span style="font-size:0.8em;color:#666"> University of Salerno </span>, 
+    J. Richards, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    L. Cammarota, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    S. Lambiase, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    F. Palomba, <span style="font-size:0.8em;color:#666"> University of Salerno </span>, 
+    M. Wessel, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Towards Prompt Engineering Language: A Formal Hierarchical Representation for LLM Prompts**\
+    G. Scorziello, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    A. Cannavale, <span style="font-size:0.8em;color:#666"> University of Salerno </span>, 
+    A. De Lucia, <span style="font-size:0.8em;color:#666"> University of Salerno </span>, 
+    F. Palomba, <span style="font-size:0.8em;color:#666"> University of Salerno </span>
+
+- **Workload Optimization using Learning and Fitness**\
+    I. Ahmad, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    V. Cortellessa, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    D. Di Pompeo, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    M. Tucci, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **Enhancing Time Series-based Software Runtime Analysis via Meta-Learning**\
+    F. Di Menna, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    L. Traini, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    V. Cortellessa, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
+- **An AI-supported Architecture for Trusted Cyber Threat Intelligence in Industrial IoT systems**\
+    D. Granata, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>, 
+    A. Iannaccone, <span style="font-size:0.8em;color:#666"> AFFILIATION </span>
+
