@@ -37,8 +37,9 @@ All submissions must stay within the maximum length for workshop papers: up to 1
 - Short paper: 5 pages total, no extra pages.
 
 ## Submission System
-Submissions need to be uploaded to the following Google form.
-[Submit here](https://forms.gle/pgzzEPrqomHGSt9cA).
+Submissions closed. 
+<!-- Submissions need to be uploaded to the following Google form.
+[Submit here](https://forms.gle/pgzzEPrqomHGSt9cA). -->
 
 ## Proceedings
 <!-- All papers accepted to the "Consolidated Works and Mature Results" track will be published in the ICPE 2026 conference proceedings, published by ACM, and included in the ACM Digital Library.  -->
@@ -63,11 +64,11 @@ For further information see: [https://icpe2026.spec.org/call-for-contributions/]
 This fee is payable when the camera-ready version of the accepted paper is uploaded. -->
 
 ## Registration Instructions
-Registration link will be available soon.
+Registration link is available on the ICPE website.
 
 ## Important Dates
 - ~~Deadline: **February 10, 2026 AoE (firm)**~~
 - ~~Notification: **February 27, 2026 AoE**~~
 - ~~Camera Ready: **March 4, 2026 AoE**~~
 
-- Extended Deadline for Emerging Ideas, Early Results, Feedback & Collaboration: **April 17, 2026 AoE (hard-deadline)**
+- ~~Extended Deadline for Emerging Ideas, Early Results, Feedback & Collaboration: **April 17, 2026 AoE (hard-deadline)**~~
