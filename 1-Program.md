@@ -41,7 +41,7 @@ QualITA 2026 Introduction
 
 **10:00 – 10:15**  
 📄 *Short Paper*  
-*Quality assessment and privacy/performance trade-off in information systems*
+*Software Rejuvenation for Resilient, Secure, and Dependable Cyber-Physical UAV Systems*
 
 **10:15 – 10:30**  
 📄 *Short Paper*  
@@ -77,7 +77,7 @@ QualITA 2026 Introduction
 
 **14:00 – 14:15**  
 📄 *Short Paper*  
-*Software Rejuvenation for Resilient, Secure, and Dependable Cyber-Physical UAV Systems*
+*Quality assessment and privacy/performance trade-off in information systems*
 
 **14:15 – 14:30**  
 📄 *Short Paper*  
@@ -116,6 +116,10 @@ QualITA 2026 Introduction
 **16:30 – 16:45**  
 💡 *Emerging Idea*  
 *An AI-supported Architecture for Trusted Cyber Threat Intelligence in Industrial IoT systems*
+
+**16:45 – 17:00**  
+💡 *Emerging Idea*  
+*A Multi-Dimensional Approach to AI Assurance*
 
 ---
 
@@ -227,3 +231,9 @@ G. Catolino, <span style="font-size:0.8em;color:#666">University of Salerno</spa
 - **An AI-supported Architecture for Trusted Cyber Threat Intelligence in Industrial IoT systems**\
     D. Granata, <span style="font-size:0.8em;color:#666">University of Naples Parthenope</span>, 
     A. Iannaccone, <span style="font-size:0.8em;color:#666">University of Naples Parthenope</span>
+
+- **A Multi-Dimensional Approach to AI Assurance**\
+    M. Anisetti, <span style="font-size:0.8em;color:#666">University of Milan</span>,
+    C. A. Ardagna, <span style="font-size:0.8em;color:#666">University of Milan</span>,
+    N. Bena, <span style="font-size:0.8em;color:#666">University of Milan</span>,
+    A. Nasim, <span style="font-size:0.8em;color:#666">University of Milan/ IMT School of Advanced Studies Lucca</span>
