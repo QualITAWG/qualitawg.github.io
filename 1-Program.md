@@ -44,8 +44,9 @@ QualITA 2026 Introduction
 *Software Rejuvenation for Resilient, Secure, and Dependable Cyber-Physical UAV Systems*
 
 **10:15 – 10:30**  
-📄 *Short Paper*  
-*Compositional coordinated resource provisioning for workflows with stochastic durations in Kubernetes*
+💡 *Emerging Idea*  
+*Enhancing Time Series-based Software Runtime Analysis via Meta-Learning*
+
 
 ---
 
@@ -106,12 +107,12 @@ QualITA 2026 Introduction
 ---
 
 **16:00 – 16:15**  
-💡 *Emerging Idea*  
-*Workload Optimization using Learning and Fitness*
+📄 *Short Paper*  
+*Compositional coordinated resource provisioning for workflows with stochastic durations in Kubernetes*
 
 **16:15 – 16:30**  
 💡 *Emerging Idea*  
-*Enhancing Time Series-based Software Runtime Analysis via Meta-Learning*
+*Workload Optimization using Learning and Fitness*
 
 **16:30 – 16:45**  
 💡 *Emerging Idea*  
