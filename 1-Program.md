@@ -3,8 +3,8 @@ title: Program
 nav: true
 ---
 
-# Conference Program
-The conference will be held at [Innovation Center](https://innovationcenterfirenze.it/en/).
+# QualITA Program
+The workshop will be held at [Innovation Center](https://innovationcenterfirenze.it/en/) in Room A.
 
 ## May 5
 
@@ -238,3 +238,22 @@ G. Catolino, <span style="font-size:0.8em;color:#666">University of Salerno</spa
     C. A. Ardagna, <span style="font-size:0.8em;color:#666">University of Milan</span>,
     N. Bena, <span style="font-size:0.8em;color:#666">University of Milan</span>,
     A. Nasim, <span style="font-size:0.8em;color:#666">University of Milan/ IMT School of Advanced Studies Lucca</span>
+
+
+# Presentation Guidelines
+To ensure the session stays on track and every presenter gets their fair share of the spotlight, please adhere to the following timing:
+
+## 🕒 Full Paper
+**Total Time:** 20 Minutes
+* **Presentation:** ~15 Minutes
+* **Q&A:** ~5 Minutes
+
+## 🕒 Short Paper
+**Total Time:** 15 Minutes
+* **Presentation:** ~10 Minutes
+* **Q&A:** ~5 Minutes
+
+## 🕒 Emerging Idea Paper
+**Total Time:** 15 Minutes
+* **Presentation:** ~10 Minutes
+* **Q&A:** ~5 Minutes
